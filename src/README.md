@@ -1,3 +1,35 @@
+# Outline
+
+## Learning
+
+* Main goal: learn to solve a difficult problem
+* Mindset
+* Right tool for the job
+* Tenacity
+* Understand, plan, code, reflect
+* Hack your brain
+  * Read ahead
+  * Walks
+* Be opinionated
+* Learn from failures
+* Learning is hard
+
+## Teaching
+
+* Main goal: teach problem solving
+* Use practical projects
+* Teach tooling
+* Students should have to make a mental leap, but not too far
+* Emotional assist: it was tough for you, it's tough for everyone
+* Research the topic, focus on the hard stuff
+* Making clear notes
+  * Stay away from Greek
+  * Avoid single letter variables
+* Blend lecture and projects
+* Team leader for your students
+* Student mindset
+* Social
+
 # Ideas
 
 ## Core ideas of learning
