@@ -1,0 +1,11 @@
+TITLE="Beej's Guide to Teaching and Learning Computer Science"
+SUBTITLE=""
+AUTHOR='Brian “Beej Jorgensen” Hall'
+VERSION_DATE="v0.0.1, Copyright © August 27, 2024"
+
+GUIDE_ID=bgtlcs
+BGBSPD_BUILD_DIR?=../../bgbspd
+
+WEB_IMAGES=$(wildcard img_*.svg img_*.png)
+
+include $(BGBSPD_BUILD_DIR)/source.make
