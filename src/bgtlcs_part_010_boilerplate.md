@@ -59,6 +59,15 @@ Both teachers and learners of computer science are the target of this
 guide. Skill level is assumed to be beginner—beyond that and you might
 know more than I have to say in these pages.
 
+As a student, I have in mind an undergrad. Some of the advice I give in
+the guide isn't good for PhDs, where you might, in fact, have to learn
+or use the things that I say you don't. This guide is not written with
+research or discovery in mind.
+
+But I'm hoping by the time you're a PhD, you have it down.
+
+Full disclosure: I only have a BS and MS in CS.
+
 ## Official Homepage
 
 This official location of this document is (currently)
