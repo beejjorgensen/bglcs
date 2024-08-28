@@ -1,5 +1,14 @@
 # The Main Goal
 
+> "Education is not preparation for life; education is life itself."
+>
+> —John "Not The Decimal System One" Dewey
+
+> "The illiterate of the 21st century will not be those who cannot read
+> and write, but those who cannot learn, unlearn, and relearn."
+>
+> —Alvin Toffler
+
 What are we learning in school? How to be a Flutter developer? How to be
 a React developer? How to be a Rust developer? How to be a JavaScript
 developer? How to be a C++ developer? How to be a C developer? How to be

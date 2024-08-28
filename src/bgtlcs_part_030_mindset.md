@@ -45,11 +45,11 @@ an improvement.
 Even when you're completely stuck, you're still exploring avenues. Even
 if they turn out to be dead-ends, you've at least learned that they are!
 
-> _"It's like the difference between 'flammable' and 'inflammable'. Boy,
-> did I learn that one the hard way."_
+> _"Isn't it the same thing, like 'flammable' and 'inflammable'? Boy,
+> I learned that one the hard way."_
 >
 > —Woody, _Cheers_
->
+
 > "Great. Another f\-\-\-\-\-g learning experience."
 >
 > —My sarcastic mother
@@ -59,10 +59,12 @@ experience.
 
 ## Tenacity
 
-> _"The master has failed more times than the beginner has even tried."_\
-> —Stephen McCranie
+> _"The master has failed more times than the beginner has even tried."_
 >
-> _Lose your first 50 games as quickly as possible._\
+> —Stephen McCranie
+
+> _Lose your first 50 games as quickly as possible._
+>
 > —Go proverb
 
 I think this is one of the main attributes of anyone who grows to excel
@@ -79,7 +81,8 @@ over, and _they kept attacking_ and attacking and attacking until they
 solved the problem. And they learned something from every single
 failure.
 
-> _"I have not failed. I've just found 10,000 ways that won't work."_\
+> _"I have not failed. I've just found 10,000 ways that won't work."_
+>
 > —Thomas Edison
 
 And something that's related here that students might not realize: your
@@ -155,6 +158,7 @@ Just make sure you have the drive to make it happen.
 > _As you read this scroll_\
 > _You will smoley begot_\
 > _Confused by the printed worts_\
+>
 > —"Scroll of Learning Disability", _Dragon_ Magazine
 
 Computer Science is *hard*. Like really hard. If you're used to things
