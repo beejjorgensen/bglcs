@@ -71,7 +71,7 @@ Full disclosure: I only have a BS and MS in CS.
 ## Official Homepage
 
 This official location of this document is (currently)
-[fl[https://beej.us/guide/bggit/|https://beej.us/guide/bggit/]].
+[fl[https://beej.us/guide/bgtlcs/|https://beej.us/guide/bgtlcs/]].
 
 ## Email Policy
 
