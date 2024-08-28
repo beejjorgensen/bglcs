@@ -157,7 +157,7 @@ Just make sure you have the drive to make it happen.
 
 > _As you read this scroll_\
 > _You will smoley begot_\
-> _Confused by the printed worts_\
+> _Confused by the printed worts_
 >
 > —"Scroll of Learning Disability", _Dragon_ Magazine
 
