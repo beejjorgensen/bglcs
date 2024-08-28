@@ -27,6 +27,7 @@
   * Avoid single letter variables
 * Blend lecture and projects
 * Team leader for your students
+* Cheating
 * Student mindset
 * Social
 
