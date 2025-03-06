@@ -144,16 +144,56 @@ Because of this, you'll very likely have to ask clarifying questions.
 
 Time to start coding? **NO!** Not yet, eager beaver![^77b5]
 
-[^77b5]: As of 2024, I worked at Oregon State University. Go Beavs!
+[^77b5]: As of 2025, I worked at Oregon State University. Go Beavs!
 
 This step, coming up with a plan, is where programming actually happens.
 Like I said before, this is what makes the job hard, and is why it pays
 well. This is the step you have to be good at to be a dev.
 
-So you understand the problem well enough to teach it to someone. Or at
-least you *think* you do.
+So you must understand the problem well enough to teach it to someone.
+Or at least you *think* you do. You might learn more later. But
+understanding the problem isn't the same as knowing how to solve it.
 
-TODO
+If the problem is really simple and familiar, you might come up with a
+plan almost instantly. Experienced devs faced with familiar tasks don't
+need to spend long planning once they've fully understood the problem.
+
+But experienced devs faced with unfamiliar tasks **do** need to spend
+time at it. It doesn't matter how good you are—if you haven't seen the
+problem, you're going to need to plan the solution.
+
+Literal pencil and paper can be useful for this step. Here are some
+things to think about.
+
+* How will data flow through the system and be transformed, from the
+  known input to the desired output?
+
+* During those transformations, what are the subsystems that will
+  perform each step?
+
+* What technologies will you need to perform these steps?
+
+* What are the known unknowns?
+
+One big thing to notice is that we're talking about breaking down a
+problem into its subcomponents. How to do this isn't always obvious,
+though the more experience you get, the easier it becomes.
+
+A trick you can use is to think, "This project would be easy if only the
+input data were in *this* form." Then see if you can come up with some
+code that converts the data into that form.
+
+Another benefit of breaking up the project into smaller parts is that
+it can naturally suggest a way to break up your code into smaller
+functions or classes. This makes your code more maintainable and
+readable.
+
+You'll have to do some research during this phase to learn what tools
+you have at your disposal. Expect to do that.
+
+It's *really* common during the planning phase to realize that you've
+failed to understand the problem fully. When this happens, drop back to
+the Understanding phase to get clarity, then jump back to planning.
 
 ## Coding Up a Solution
 

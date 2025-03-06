@@ -4,15 +4,18 @@
 
 * Main goal: learn to solve a difficult problem
 * Mindset
+  * Tenacity
+  * Learn from failures
+  * Learning is hard
+* How to solve any problem
+  * Understand, plan, code, reflect
 * Right tool for the job
-* Tenacity
-* Understand, plan, code, reflect
+* Be critical and opinionated
+  * Be opinionated
+  * Think like a villain
 * Hack your brain
   * Read ahead
   * Walks
-* Be opinionated
-* Learn from failures
-* Learning is hard
 
 ## Teaching
 
