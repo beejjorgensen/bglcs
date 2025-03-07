@@ -131,10 +131,10 @@ Francisco, California, 94105, USA.
 
 One specific exception to the "No Derivative Works" portion of the
 license is as follows: this guide may be freely translated into any
-language, provided the translation is accurate, and the guide is
-reprinted in its entirety. The same license restrictions apply to the
-translation as to the original guide. The translation may also include
-the name and contact information for the translator.
+language except English, provided the translation is accurate, and the
+guide is reprinted in its entirety. The same license restrictions apply
+to the translation as to the original guide. The translation may also
+include the name and contact information for the translator.
 
 The programming source code presented in this document is hereby granted
 to the public domain, and is completely free of any license restriction.
