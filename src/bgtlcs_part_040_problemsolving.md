@@ -318,8 +318,8 @@ the project that will produce more durable and maintainable code.
 
 ## Use in Interviews
 
-This four-step process is exactly what you should use on interview
-coding challenges.
+The four-step process from this chapter is exactly what you should use
+on interview coding challenges.
 
 See, these interview problems are quite insidious. They don't have
 obvious answers at all.
@@ -341,7 +341,7 @@ want to see you apply your problem-solving skills*.
 
 It's natural when you're under the stress of the interview and are
 presented with an initially-impossible problem that you seize up like a
-deer in the headlights. All you knowledge suddenly vanishes in a cloud
+deer in the headlights. All your knowledge suddenly vanishes in a cloud
 of mist and you know you'll never get this job now ever and—
 
 ***If you panic, STOP.*** Say to yourself these words: "The only thing
