@@ -16,6 +16,8 @@
 * Hack your brain
   * Read ahead
   * Walks
+* Learning a language
+* Use of AI
 
 ## Teaching
 
@@ -33,6 +35,7 @@
 * Cheating
 * Student mindset
 * Social
+* AI
 
 # Ideas
 
@@ -190,4 +193,22 @@ I like this thought experiment because it:
   assessments.
 * Allows for the leveraging of the exact tools will be used at work to
   great effect (e.g. ChatGPT, Stack Overflow, YouTube, etc.).
+
+
+# Learning a Language
+
+* Knowing the language syntax.
+
+  This is things like what statements (like `if` and `for`) you can use,
+  how to define variables, functions, classes, and data structures, and
+  what punctuation does.
+
+  This is usually fairly straightforward, even in more complex
+  languages. There's just not much syntax there, and you probably don't
+  need all of it to get your work done.
+
+* Knowing what libraries are available.
+
+  This is a much bigger task. Python, for example, has a massive
+  standard library full of functionality you can leverage.
 

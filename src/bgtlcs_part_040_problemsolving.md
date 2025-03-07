@@ -107,8 +107,8 @@ Don't believe me? Write down the rules of tic-tac-toe ("noughts and
 crosses" if that's what you call it) and I can guarantee I'll find
 something you didn't write down[^5b26].
 
-[^5b26]: You didn't say my "X" couldn't take up more than one square!
-    For example.
+[^5b26]: You didn't say my "X" couldn't take up more than one square,
+    for example.
 
 Because of this, you'll very likely have to ask clarifying questions.
 
@@ -207,9 +207,11 @@ This is the easy part! You have to translate your pseudocode plans into
 code.
 
 If you've understood the problem and come up with a solid plan, the code
-will work!
+will work. Maybe even on the first try, if you're very lucky.
 
-Ideally.
+If you didn't understand the problem and didn't come up with a plan,
+then this is not the easy part. You will see no end to trouble, and
+might fail to complete the project.
 
 Of course, we're only human and we'll mistype things and make dumb
 errors, but that's *way* easier to debug than if you have a bad plan, or
@@ -219,12 +221,64 @@ The hard parts of coding it up are:
 
 * Knowing the language syntax.
 * Knowing what libraries are available.
+* Not making trivial mistakes.
+* Following the plan exactly.
 
-TODO
+We'll talk about how to learn languages later, and the second two bullet
+points can be addressed by being more careful, using something like
+[flw[pair programming|Pair_programming]], or leaning on AI.
+
+While you're coding, you might find a place where your plan doesn't
+work. This happens quite a bit. When it happens, drop back to the
+planning phase, fix the plan, and then come back up to the coding phase
+to implement it.
+
+Again, this phase is supposed to be relatively easy. If you're having
+trouble trying to get it to work beyond just fixing your syntax errors
+(i.e. there's something more structural amiss), your understanding or
+your plan is likely flawed. You should drop back to the planning phase
+to fix it, and maybe back to the understanding phase, if required.
+
+***You're done with this phase when the code works and passes all your
+tests.***
 
 ## Reflect on Improvements
 
-TODO
+Last and definitely not least, look back and cast a critical eye on what
+you've done. Yes, it works and passes all the tests. But is it as
+elegant as it could be? Is it as readable and maintainable as it could
+be? Are there are places where the code is fragile and might fail on
+unexpected inputs?
+
+No matter what your skill level is, there is always room for
+improvement. And one of the top ways we learn is
+
+Code reviews are fantastic if you can coax someone into taking the time
+to do it for you. They will make suggestions for things you can
+improve, and you can fix them now and remember them for next time. And
+you might disagree and not make those fixes; that's okay, too.
+
+Again, we can leverage AI to help with this. Once you've solved a
+problem and have it working, ask the AI for suggestions for
+improvement[^08dd] and see if there are any worth following. This
+technique is effective on small pieces of code, not large projects, but
+that makes it a great assistant for undergrad work.
+
+[^08dd]: Make sure your instructor and/or employer allows this.
+
+> **But, very importantly for undergrads, you need to solve the problem
+> first**, and only then ask the AI to help you improve it. Your goal in
+> school training (just like in gym training) is to get a workout with
+> feedback, not have someone else do the work for you.
+
+***You're done with this phase never.*** Well, practically you're done
+with it when you give up and decide you've learned enough about
+improving the code. But you're probably not going to find the _Ultimate
+Solution to the Problem Ever_ because you're still building your skills
+throughout your life.
+
+That said, this phase is where a **lot** of learning happens. This phase
+is where you can really improve your skills.
 
 ## Use in Interviews
 
