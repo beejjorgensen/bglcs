@@ -132,9 +132,9 @@ I caught a lot of flak on Hacker News for this assertion a while ago.
 Several people commented that they hated programming and still managed
 to have a career at it.
 
-First, that's a... bummer. But secondly, I still argue that people
-who love computer science had an easier time getting their degree than
-people who hated it.
+First, that's a... bummer. But secondly, I still argue that people who
+love computer science have an easier time getting their degree than
+people who hate it.
 
 And the people who seem to be "naturals" are the ones who *really* love
 it. They think about computer science *all the time* (because who

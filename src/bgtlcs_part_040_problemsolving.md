@@ -53,7 +53,7 @@ that's thrown at you.[^b374]
 [^b374]: I don't think AI can solve *all* problems that get thrown at
     it, meaning that you'll still have a job, but they can solve the
     relatively basic problems that are commonly used in computer science
-    curricula. It's 2024 now and we'll see how well this footnote ages.
+    curricula. It's 2025 now and we'll see how well this footnote ages.
 
 Let's explore the steps.
 
@@ -94,7 +94,7 @@ What do I do? Here are some ideas.
 * Ask clarifying questions[^99ca].
 
 [^99ca]: This is actually part of your job description as a dev. People
-    will expect you to have done this in the workplace. So don't be
+    will expect and rely on you to do this in the workplace. So don't be
     afraid of doing it; be afraid of *not* doing it.
 
 How do I know when I'm done? ***You're done when you can teach someone else
@@ -107,8 +107,9 @@ Don't believe me? Write down the rules of tic-tac-toe ("noughts and
 crosses" if that's what you call it) and I can guarantee I'll find
 something you didn't write down[^5b26].
 
-[^5b26]: You didn't say my "X" couldn't take up more than one square,
-    for example.
+[^5b26]: You didn't say how to choose who moves first, if it could be
+    played by three people, or that my "X" couldn't take up more than
+    one square. For example.
 
 Because of this, you'll very likely have to ask clarifying questions.
 
@@ -251,7 +252,8 @@ be? Are there are places where the code is fragile and might fail on
 unexpected inputs?
 
 No matter what your skill level is, there is always room for
-improvement. And one of the top ways we learn is
+improvement. And one of the top ways we learn is to look back on the
+crappy code we wrote and see how we could have made it better.
 
 Code reviews are fantastic if you can coax someone into taking the time
 to do it for you. They will make suggestions for things you can
@@ -277,8 +279,8 @@ improving the code. But you're probably not going to find the _Ultimate
 Solution to the Problem Ever_ because you're still building your skills
 throughout your life.
 
-That said, this phase is where a **lot** of learning happens. This phase
-is where you can really improve your skills.
+That said, this phase is where a **lot** of learning happens. This is
+where you can effectively build your stats with relatively low effort.
 
 ## Think Like a Villain
 
