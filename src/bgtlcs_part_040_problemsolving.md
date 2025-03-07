@@ -97,8 +97,9 @@ What do I do? Here are some ideas.
     will expect you to have done this in the workplace. So don't be
     afraid of doing it; be afraid of *not* doing it.
 
-How do I know when I'm done? You're done when you can teach someone else
-what the problem is.
+How do I know when I'm done? ***You're done when you can teach someone else
+what the problem is.*** (You don't need to teach the solution—just the
+problem.)
 
 It's very, *very* hard to write a complete description of a problem, and
 the ones you'll get at work or even in school will certainly be wanting.
@@ -195,7 +196,29 @@ It's *really* common during the planning phase to realize that you've
 failed to understand the problem fully. When this happens, drop back to
 the Understanding phase to get clarity, then jump back to planning.
 
+***You know you're done with planning when you can simulate the run on
+paper and in your head and you're confident it works. And you can write
+high-level pseudocode.*** Bounce your plan off a few [flw[rubber
+ducks|Rubber_duck_debugging]] to see if it holds water.
+
 ## Coding Up a Solution
+
+This is the easy part! You have to translate your pseudocode plans into
+code.
+
+If you've understood the problem and come up with a solid plan, the code
+will work!
+
+Ideally.
+
+Of course, we're only human and we'll mistype things and make dumb
+errors, but that's *way* easier to debug than if you have a bad plan, or
+worse, bad understanding of the problem. Yikes!
+
+The hard parts of coding it up are:
+
+* Knowing the language syntax.
+* Knowing what libraries are available.
 
 TODO
 
