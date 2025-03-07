@@ -280,6 +280,42 @@ throughout your life.
 That said, this phase is where a **lot** of learning happens. This phase
 is where you can really improve your skills.
 
+## Think Like a Villain
+
+When solving problems, I want you to think like a villain; that is,
+think like someone who is going to abuse the system that you're
+designing and building.
+
+A real square root function, for example, could be well tested. Give it
+some perfect squares, some non-perfect squares, some fractions, etc.
+Works perfectly. You wouldn't pass in negative numbers, right? That
+would be silly. But you know who would? A villain!
+
+> **I once visited an online shop that allowed you to order negative
+> amounts of product.** The checkout page said they were going to credit
+> my account by tens of thousands of dollars.
+>
+> I never had the guts to check out, though, since I didn't want to be
+> on the hook for shipping all that product to them.
+>
+> Plus, I'm not a real villain... I was just thinking like one!
+
+Expect the unexpected in terms of data that your code will receive.
+Expect malicious actors to feed in data in an attempt to gain
+unauthorized access or manipulate the system in undesirable ways. Test
+for that stuff in your code.
+
+This applies to all phases from understanding to reflection.
+
+> **Someone I knew in college worked for the army** looking at plans for
+> things like tanks that had not yet gone into production. His job was
+> to think like a villain and ask questions like, "How are you going to
+> get a wrench between those pipes to tighten that bolt?"
+
+Thinking like a villain can not only catch problems you might not have
+otherwise considered, but it will lead you to a deeper understanding of
+the project that will produce more durable and maintainable code.
+
 ## Use in Interviews
 
 This four-step process is exactly what you should use on interview
@@ -311,7 +347,7 @@ of mist and you know you'll never get this job now ever and—
 ***If you panic, STOP.*** Say to yourself these words: "The only thing
 that matters now is *understanding the problem*." Forget the solution.
 That's not important. Coding it? Not important. Just focus on step one:
-Understand the problem.
+understand the problem.
 
 There are two main reasons for this. One is that the interviewer is
 hoping you'll start there. (And that should be reason enough.) But the
@@ -320,31 +356,31 @@ kick back into gear and automatically start thinking up strategies for
 solving the problem... and that's step two of the problem-solving
 framework! You're already on your way.
 
-Try to think of anything ambiguous in the problem description. Ask
-questions to clarify those things. What are the limits on the input?
-What are the limits on output? What do you do in error conditions? Maybe
-suggest an example input and output and verify that you have it right
-with the interviewer.
+Try to think (you villain) of anything ambiguous in the problem
+description. Ask questions to clarify those things. What are the limits
+on the input? What are the limits on output? What do you do in error
+conditions? Maybe suggest an example input and output and verify that
+you have it right with the interviewer.
 
 This tells the interviewer that you give attention to detail, an
 important trait to have.
 
 And get this: for many interviewers, seeing you effectively attack a
 problem in a systematic way is actually more important than you getting
-the actual answer correct.[^1e93] And on the flip side, not showing your
+the actual correct answer. And on the flip side, not showing your
 problem-solving skills when giving an answer might sink you, even if the
 answer is correct!
 
-[^1e93]: When I interviewed at Activision, there were two questions I
-    did not get right. But I hammered my way through them aloud as best
-    I could, showing how I'd attack problems. I got the job.
-
-    The blown questions were: "What is the fastest way to reverse the
-    bits in a byte?" and "Optimize this computation that builds a grid
-    of distances between all soccer players on a field."
+> **When I interviewed at Activision**, there were two questions I did
+> not get right. But I hammered my way through them aloud as best I
+> could, showing how I'd attack problems. I got the job.
+>
+> The blown questions were: "What is the fastest way to reverse the bits
+> in a byte?" and "Optimize this computation that builds a grid of
+> distances between all soccer players on a field."
 
 So go through the whole process with the interviewer. And don't forget
 the final reflect step! What would you do better? How could the solution
-be improved? Interviewer love that stuff, and you love keeping
+be improved? Interviewers love that stuff, and you love keeping
 interviewers happy, right?
 
