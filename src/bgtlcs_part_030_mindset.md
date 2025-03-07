@@ -68,8 +68,7 @@ experience.
 > —Go proverb
 
 I think this is one of the main attributes of anyone who grows to excel
-at anything. (How's that for a generalization?) Instructors would do
-well to point this out to students.
+at anything. (How's that for a generalization?)
 
 Who is going to get farther, the person who gives up after a failure, or
 the person who fails and fails and fails and fails and keeps getting up,

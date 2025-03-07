@@ -29,8 +29,7 @@ But here's the problem:
 
 [^7152]: Joke's on me. There are still tons of COBOL jobs out there.
 
-So what can you as a student or instructor do? There's no way you're
-covering it all.
+So what can you as a student do? There's no way you're covering it all.
 
 This is where the main goal comes into play. Your job as a student is to
 do one thing:
@@ -45,8 +44,6 @@ Importantly, it's not to learn to be an iPhone developer or an Android
 developer or a Go developer. All that stuff is covered by the main goal.
 You might not learn Go programming in school, but you'll _learn how to
 learn Go programming on your own_.
-
-And for instructors, your job is to help the students do one thing:
 
 ***Learn how to solve any programming problem.***
 
@@ -66,17 +63,18 @@ and—?
 *EERRRNT!* You didn't just spend four years doing that. You just spent
 four years *learning to solve any programming problem*.
 
-Instructors should use this framing. Not only is it the actual goal, but
-it gives some rationale behind why students are hacking assembly when
-there's basically zero chance they'll do so at work.
-
 And think about it. How would you teach people to solve *any* problem?
 Well, you can't exhaustively teach them [flw[all zillion programming
 languages|List_of_programming_languages]], frameworks, and techniques.
 So that's off the table. And whichever ones you do pick might or might
 not be used for a particular person's job.
 
-So we have to get more fundamental. We have to 
+So we have to get more fundamental. We have to practice solving problems
+so many times that we develop and enhance our problem-solving skills.
+Because you're going to be faced with problems in an interview or at
+work that are completely unfamiliar. You won't be able to draw on any
+specific languages or algorithms you've learned. The one thing you will
+be able to use is your problem-solving skill.
 
 Finally, there's a bit of a corollary here: when you're learning to do
 something you'll never use at work, *don't cheat*. The goal isn't to
