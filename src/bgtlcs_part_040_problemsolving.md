@@ -22,7 +22,16 @@ And if you think about it, that's really just a four-step process for
 solving just about any problem at all. Is your living-room light not
 working? You can solve it with these steps.
 
-I want to stress something: **Steps 1, 2, and 4 do not involve
+> _"Math ain't about numbers. If you think math is about numbers, you
+> probably think that Shakespeare is all about words. You probably think
+> that dancing is all about shoes. You probably think that music is all
+> about notes. Math ain't about numbers. Math is about logic, it's about
+> beauty, it's about connections, it's about how you get from one place
+> to another."_
+>
+> —Cliff Stoll
+
+Programming ain't about writing code. **Steps 1, 2, and 4 do not involve
 coding**[^3cfe]. These steps are all in your head and on paper. I would
 argue that ***solving programming problems does not involve a
 computer***. That seems clearly nonsensical, but that's where the action
@@ -59,10 +68,10 @@ Let's explore the steps.
 
 ## Understanding the Problem
 
-Everyone, students included, loves to skip this step. Wise instructors
-will add a quiz to be turned in before coding starts that verifies you
-understand the problem[^873c]. But you need to pressure yourself to do
-this step first, regardless.
+Everyone, students included, loves to skip the Understanding step. Wise
+instructors will add a quiz to be turned in before coding starts that
+verifies you understand the problem[^873c]. But you need to pressure
+yourself to do this step first, regardless.
 
 [^873c]: I could stand to be more wise, myself.
 

@@ -104,6 +104,9 @@ fail a lot more to get as good as they are!
 Very, very few people are "natural" coders. 99.999% of the rest of us
 have to work really hard to learn this stuff.
 
+*Relentless tenacity* is one of the prime qualities of the top coders of
+the world.
+
 ## You Gotta Want It
 
 When I was thinking about getting a PhD (I didn't), my adviser advised
