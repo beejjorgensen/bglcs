@@ -102,9 +102,47 @@ tutor, an instructor, or (if allowed) an AI.
 
 ## No Copy-Paste Coding
 
+You need to solve a problem, and look right there on the Intertubes!
+There's a solution! Time to break out the ol' `CTRL-c`/`CTRL-v` skills!
+
+It used to be that people found this solution on the programming site
+[fl[Stack Overflow|https://stackoverflow.com/]]. And commonly still do.
+But nowadays they tend to punt to some AI.
+
+*Beginning developers should not do this.* Remember the main goal:
+develop excellent problem-solving skills. Copy-paste coding does
+**nothing** to further this goal.
+
+One exception to this rule is if you already struggled with the problem
+for some time, as mentioned in the _30 Minute Rule_ section, above. But
+even then, you **must** understand the code you're copying 100%
+completely before using it.
+
 ## Go for a Walk
 
-Yes, I'm serious. TODO
+Yes, I'm serious. You're stuck, and nothing seems to be working, and no
+additional plans of attack are coming to mind. What do you do?
+
+Go for a walk.
+
+As you try different approaches to a problem, it's like you're leaving
+ruts behind in the road, and your brain tends to focus on the existing
+ruts rather than trying something new. You're locked in on the
+approaches you've tried but around working. "If only I could just tweak
+this one thing that almost works..." but you're not seeing how.
+
+Stand up and stroll. Maybe you're at work and this just means you're
+making laps in the hallway. Or maybe you can go outside on a balcony,
+out front, or on the roof.
+
+This frees your mind to get out of those ruts and explore new
+approaches.
+
+There have been times (working remote) where I've decided to go for a
+walk and have gotten two steps out the front door when a new approach to
+the problem has occurred to me.
+
+TODO
 
 
 ## Rubber Duck
