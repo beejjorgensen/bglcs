@@ -1,4 +1,4 @@
-# Hacks for Learning
+# Hacks and Techniques for Learning
 
 There are a number of tips and tricks for maximizing your speed of
 durable learning. Devs know these help, and yet we stubbornly ignore
@@ -142,7 +142,108 @@ There have been times (working remote) where I've decided to go for a
 walk and have gotten two steps out the front door when a new approach to
 the problem has occurred to me.
 
-TODO
-
+This method of getting unstuck is tried-and-true.
 
 ## Rubber Duck
+
+Talk to someone about the issue. This is such an effective technique
+that it even works if you're talking to an inanimate rubber duck, giving
+rise to the name _rubber ducking_.
+
+The basic idea is that you're going to lead the other person through the
+problem-solving steps, effectively teaching it to them. Get them to
+understand the problem, and have them help with a plan.
+
+Here's the really amazing thing about this: _it works even if the other
+person (or duck) is non-technical_.
+
+One of the reasons is that to understand a problem and come up with a
+plan, you really don't need to know anything about programming. They can
+still help.
+
+And here's the _really_ amazing thing: they don't even have to say
+anything. The mere act of teaching someone about the problem is very
+often enough for you to find the answer on your own.
+
+Maybe it was a piece of understanding that you missed, or there's a
+non-obvious hole in your plan. Talking it through can help you find
+these things.
+
+One time, in a combination of going for a walk and rubber ducking, a
+coworker of mine walked up to my cube, raised his hand as if to ask a
+question, paused a beat, then said, "Never mind, I figured it out." That
+was all it took.
+
+## Write Down Questions
+
+When poring over a problem description or learning a tool or language,
+there are basically two kinds of questions that crop up.
+
+1. **Blocking questions** are questions that you need an answer to right
+   now because they're blocking your progress. You can't do anything
+   else until you get the answer.
+
+2. **Non-blocking questions** are things that come up of the course of
+   development that are interesting, but you can keep going without
+   knowing the answer right now.
+
+I like to write down non-blocking questions and get answers to them
+later. Things like, "Does this language support destructuring
+assignments?" or "Can the library also provide random numbers in an
+integer range?" or "What other networking protocols are built into the
+standard library?"
+
+They were things that I was curious about, but didn't need to know the
+answer to immediately.
+
+Coming back and getting the questions answered later can help build a
+more complete picture of the systems you're working with and make you a
+more effective developer.
+
+## Build a Tapestry of Knowledge
+
+This is where it all comes together.
+
+When you first start coding, you're in the middle of the vast unexplored
+world of knowledge. You've learned how to print `Hello, world!` on the
+screen, but that's it.
+
+So you start mapping it out. You see that there are functions and
+variables and I/O operations and you see how those are connected. And
+you learn about networking and see how that's connected to the I/O
+system in the OS, and you connect them on the map.
+
+As your map grows, you draw connections between many of the things
+you've learned, and you gradually see that the world of development is
+more interconnected than not. A lot of problems are very similar to a
+lot of other problems.
+
+And when you know a lot of problems like that, that's a lot of power you
+can bring to bear on new challenges you face. "Oh, this problem _x_
+reminds me of problem _y_. Maybe I can solve it in a similar way."
+
+> **You have a group of 10 people numbered 0 to 9** and they are all
+> lining up at a bank window. Your simulation needs them in random
+> order with no repeats in \(O(n)\) time. How do you code this up?
+>
+> Maybe earlier you'd written a program to shuffle a deck of cards using
+> the famous [flw[Fisher-Yates algorithm|Fisher–Yates_shuffle]]... wait!
+> All you have to do is make a list of people numbered `0` to `9` in
+> order, then shuffle the list like a deck of cards!
+>
+> It's the same problem!
+
+Beginning developers solve programming problems through sheer logic and
+reasoning.
+
+Experienced devs also use logic and reasoning, but they primarily rely
+heavily on pattern matching. What coding pattern do I know that best
+solves the type of problem that I'm currently facing?
+
+In short, they rely on their interconnected tapestry of knowledge
+they've built up over their years of programming.
+
+As you learn to code, look for ways that the thing you're learning about
+now connects to the rest of the programming world you've already
+explored. Make those connections so you can exploit them later.
+
