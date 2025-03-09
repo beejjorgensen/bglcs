@@ -16,6 +16,10 @@
 * Hack your brain
   * Read ahead
   * Walks
+  * Rewrite the problem in your own words
+  * Stuck for 20 minutes
+  * Rubber ducking
+  * Answer immediate questions now, write down later questions
 * Learning a language
 * Use of AI
 
@@ -41,47 +45,47 @@
 
 ## Core ideas of learning
 
-* Main goal: learn to solve any difficult problem.
-* Like the job of a novelist isn't spelling, the job of a dev is not
+- Main goal: learn to solve any difficult problem.
+- Like the job of a novelist isn't spelling, the job of a dev is not
   coding. The job of a dev is problem solving.
-* There are a lot of tools and languages. Don't stubbornly adhere to
+- There are a lot of tools and languages. Don't stubbornly adhere to
   only what you know. Use the right tool for the job, even if you have
   to learn it first.
-* There's no one true solution, technology, or language that's best at
+- There's no one true solution, technology, or language that's best at
   everything.
-* Professional devs don't fight language wars.
-  * They might have a favorite, but they use the right tool for the job.
-  * They know the battle is solving the problem. The language is just
+- Professional devs don't fight language wars.
+  - They might have a favorite, but they use the right tool for the job.
+  - They know the battle is solving the problem. The language is just
     the tool they use to write down the solution.
-* Keep attacking, tenacity is the prime quality
-  * Try things. If something doesn't work, learn from it and try
+- Keep attacking, tenacity is the prime quality
+  - Try things. If something doesn't work, learn from it and try
     something else.
-  * For two tenacious devs, there's no difference in skill other than
+  - For two tenacious devs, there's no difference in skill other than
     number of reps put in.
-* No one is born being a great dev.
-  * It's all learned with time and reps.
-  * People who love it will think about it all day and try things all
+- No one is born being a great dev.
+  - It's all learned with time and reps.
+  - People who love it will think about it all day and try things all
     day. That's a lot of time and reps.
-  * People who hate it will procrastinate and not put in the same time
+  - People who hate it will procrastinate and not put in the same time
     and reps.
-* Everyone is smart enough to be a dev. But you gotta want it.
-  * It's mountains of very difficult and frustrating work.
-  * I'm smart enough to be an accountant, but I can't make myself put in
+- Everyone is smart enough to be a dev. But you gotta want it.
+  - It's mountains of very difficult and frustrating work.
+  - I'm smart enough to be an accountant, but I can't make myself put in
     the work because I dislike the subject. Therefore I will not become
     an accountant.
-* Understand, Plan, Code, Reflect
-* Everything is hard/nothing is obvious
-  * It doesn't pay the big bucks because it's easy.
-* Think like a villain
-* "Lose first 50 games as quickly as possible"
-* Be opinionated with a rationale
+- Understand, Plan, Code, Reflect
+- Everything is hard/nothing is obvious
+  - It doesn't pay the big bucks because it's easy.
+- Think like a villain
+- "Lose first 50 games as quickly as possible"
+- Be opinionated with a rationale
+- Failures can be better teachers than successes.
 * Read the assignment right now, even if you don't understand it, and
   even if you're not going to code it until Sunday. Get your brain
   chewing on it.
 * Build an interconnected web of knowledge. All techniques are related,
   and the more you know, the easier time you've have generating
   solutions to novel problems.
-* Failures can be better teachers than successes.
 * If you have a bug, don't try another approach without first fully
   understanding why the bug is occurring.
 * Learning new things is hard.
@@ -92,6 +96,7 @@
   languages.
 * Learning new languages in a paradigm you know will become easy.
 * Join a club!
+* What to expect at work.
 
 ## Core ideas of teaching
 
