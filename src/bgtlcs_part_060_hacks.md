@@ -224,7 +224,7 @@ reminds me of problem _y_. Maybe I can solve it in a similar way."
 
 > **You have a group of 10 people numbered 0 to 9** and they are all
 > lining up at a bank window. Your simulation needs them in random
-> order with no repeats in \(O(n)\) time. How do you code this up?
+> order with no repeats in $O(n)$ time. How do you code this up?
 >
 > Maybe earlier you'd written a program to shuffle a deck of cards using
 > the famous [flw[Fisher-Yates algorithm|Fisher–Yates_shuffle]]... wait!
