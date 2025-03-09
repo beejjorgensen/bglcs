@@ -88,6 +88,15 @@ than a human language. And you can get it down pretty quickly.
 
 ## Learning the Library
 
+The standard library is the pre-baked functionality that ships with a
+language. It's nice because you know everyone who has the language
+installed has all these functions already and they don't have to
+download any additional third-party dependencies.
+
+But you need to be familiar with it so that you know what the language
+can do out of the box, and so that you don't reinvent the wheel when you
+don't have to!
+
 One recommendation is the skim the standard library for a language
 you're using. You don't have to know exactly how to use Python's
 [flw[IMAP|Internet_Message_Access_Protocol]] library, but knowing it's
@@ -95,9 +104,75 @@ there in case you do is very valuable. At the very least, it lets you
 know that Python is a contender for choice of language if you need to do
 some IMAP work.
 
-TODO
+Then when you do need some of that functionality, you can dig into the
+documentation and examples and see how it works.
+
+I tend to learn libraries piecemeal, learning in detail only what I need
+to get a job done. I know the rest of what it _can_ do (because I
+skimmed the docs), but I only know bits and pieces well enough to code
+with them.
+
+And that's okay, since the libraries are massive.
 
 ## Learning a New Paradigm
 
-TODO
+First, what is a _programming paradigm_? It's a way of modeling a
+problem so that you can come up with a solution. I know that's vague but
+bear with me for a couple paragraphs.
 
+Imagine doing your taxes. (Sorry.) When you do them, it's a sequence of
+steps one after another. Fill in your name. Fill in your income. If your
+income is more than some value, do _x_. Else do _y_. It's a procedure
+that you're following. You can model it as a series of steps.
+
+Imaging you're simulating a 3D fantasy world. In that world you might
+have a type of creature called an orc, and there might be many creatures
+of that type running around. And they all have their own independent
+coordinates, and their own [flw[hit
+points|Health_(game_terminology)#Hit_points]], but they all have the
+same behavior when you walk up to them. You can model them as a
+collection of objects that are independent but have similar behavior.
+
+These are two different ways of solving a problem, either by modeling
+them as a sequence of steps, or as objects.
+
+We call these differing models _programming paradigms_. The first
+example is "procedural programming" (kind-of; I'm hand-waving a bit),
+and the second is "object-oriented programming".
+
+There are [flw[a lot of paradigms|Programming_paradigm]], but the Big
+Three are procedural, object-oriented, and functional.
+
+Here's the bummer: learning a new paradigm is hard. A lot harder than
+just learning another language in the same paradigm.
+
+If you know Spanish, learning Italian is relatively easy. But learning
+Chinese, that's something else! Not nearly as easy. Keeping with the
+analogy, it's a different paradigm. You have to learn new techniques and
+concepts you might not even be aware of from the romance languages.
+
+> **I learned Erlang a while ago**. [fl[Erlang|https://www.erlang.org/]]
+> is a functional language, and I was weak with the functional paradigm.
+>
+> For example, in Erlang, once you set a "variable", you can never
+> change it. And every single way I knew for modeling problems involved
+> changing variables!
+>
+> I mean, how are you supposed to get anything done if you can't change
+> a variable?!
+>
+> But clearly, massive systems had been implemented successfully in
+> Erlang, so there was a way. But I had to change my thinking about how
+> I modeled problems, and learning that new way was a massive challenge.
+
+My main piece of advice here is to use a _lot_ of examples to see how
+that language performs basic tasks. That is, gather and study a lot of
+toy programs.
+
+Then come up with related challenges (or find some online, or ask an AI
+to generate some) that allow you to work out to build your skills and
+find gaps in your understanding.
+
+For learning functional programming in particular, the aforementioned
+free book [flw[SICP|Structure_and_Interpretation_of_Computer_Programs]]
+is great (the Scheme variant, not the JavaScript one).
