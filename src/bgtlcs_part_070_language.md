@@ -13,6 +13,12 @@ apply those same concepts you already know.
 It's like if you already know Spanish, learning Italian isn't that big
 of a jump.
 
+This chapter is about learning additional languages after you've learned
+your first one. This is important because you're going to be learning
+new languages your entire career. Luckily, though, learning new
+languages it itself a skill, and the more new languages you learn, the
+easier it becomes.
+
 There are two big pieces to learning a new language in a paradigm
 you already know (procedural, object-oriented, functional, etc.)
 
