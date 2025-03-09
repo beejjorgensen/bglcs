@@ -128,7 +128,7 @@ Go for a walk.
 As you try different approaches to a problem, it's like you're leaving
 ruts behind in the road, and your brain tends to focus on the existing
 ruts rather than trying something new. You're locked in on the
-approaches you've tried but around working. "If only I could just tweak
+approaches you've tried but aren't working. "If only I could just tweak
 this one thing that almost works..." but you're not seeing how.
 
 Stand up and stroll. Maybe you're at work and this just means you're
