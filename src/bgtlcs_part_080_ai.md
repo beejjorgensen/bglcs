@@ -7,13 +7,122 @@ using it, and no one can stop talking about it.
     "Tired" is also tired, but that's self-referential so I think it has
     bottomed out.
 
-## How Not to Use AI as a Student
+The question no one seems to have an answer for is what's going to
+happen. [flw[Sam Altman|Sam_Altman]] and others will tell you that AI is
+any second now going to take over the world and solve everything and
+humans will be rendered obsolete.
 
-TODO
+I like to think that will not happen, and that even if AI starts solving
+everything, people will still want to use their ingenuity to push the
+envelope farther than AI is able to.
+
+But what does all that mean for you as a computer science student (as of
+this writing)?
+
+Let's talk about how you should use an AI as a student and at work,
+because those are two different things.
+
+Before that, let's talk about what you're _not_ supposed to do.
+
+## How *Not* to Use AI as a Student
+
+I've mentioned elsewhere that I like to study the book
+[flw[SICP|Structure_and_Interpretation_of_Computer_Programs]] to improve
+my skills. And how I give myself a six-hour time limit to solve the
+problems presented.
+
+Now, these problems aren't real-world problems at all. They're contrived
+training problems. And—get this—the answers are all freely available on
+the Internet in a wide variety of places.
+
+So why do I spend up to six hours? What a waste, right? Why not just
+clone someone's repo and declare that it's implemented so I'm done?
+
+Or, if not that, why not just copy what my friend made?
+
+Or, if not that, why not hire someone to write the answers for me?
+
+Of course, you know the answer. I don't do that because if I do, I
+haven't learned anything. More specifically, _I haven't struggled with
+the problems_ so the learning that would come from that is lost.
+
+I think you see where this is going: just asking AI to solve the problem
+isn't going to increase your skills at all. It's like asking someone
+else to do the hard work.
+
+It's like I went to the gym and asked someone else to lift the weights
+for me. Sure, I can walk out saying the weights had been lifted
+successfully, but I gained nothing from the experience.
+
+Name the activity that, aside from being at the gym, involves lifting
+weights all day. Answer: there are none (generally speaking for the
+majority of the population). Then why do we spend time lifting dumbbells
+at the gym if there are zero activities that involve it?
+
+The weights are just tools we use toward the greater goal of being
+generally stronger.
+
+*School is exactly like this*. The programming problems you get in
+school are dumbbells. They're not real. They're designed to give you a
+workout so that when you get to the job, you have the strength to do the
+work.
+
+And because the problems aren't real, AI can solve them all _really_
+easily. There's tons of training material out there for them to learn
+from.
+
+*But don't be fooled*. Just because AI can solve your school problems
+doesn't mean it can solve the real-world problems you're going to face
+in your work. (As of now, it can't.)
+
+(And if it could solve all those problems, how much do you think devs
+would earn? There's a reason being a dev pays well, and it's because the
+work is hard. If it was as easy as typing in an AI prompt, it would pay
+minimum wage. That should clue you in to the fact that if *all* you can
+do is prompt AI, you're not getting a high-paying gig.)
+
+But that's not to say you shouldn't get good at using AI; it's just that
+while you're a student, you have to use it the right way to maximize
+your skills development.
+
+The TLDR of this section is this: never ask AI to solve your entire
+programming project. It probably can do that, but you'll learn nothing.
+The goal of the project is not to complete the problem; it's to get a
+workout while you complete it.
 
 ## How to Use AI as a Student
 
-TODO
+First things first: if your school or instructor has banned AI, that's
+the rule. And you have to ignore what I've written here. Sorry. I'm
+going to assume it hasn't done that foolish thing, and proceed.
+
+So how should you use it? Use it like you're working with a decent tutor
+who knows a lot of things kinda well. The AI tutor definitely makes
+mistakes and gives poor advice from time to time, so you should cast a
+critical eye on everything you learn from it.
+
+When you're stuck on a small part of a project, ask about that. When you
+can't remember syntax, ask about that. Ask about the idiomatic way to
+write a loop that removes elements from the array it's iterating over.
+Ask about what a particular operator does or how to use it. When you
+have questions about the language or library, as those. Little
+bite-sized pieces are fine to ask it about. It can be way faster than a
+standard Internet search!
+
+When you've completed the project (and it works completely), then you
+can feel free to ask AI for an answer that you can use for comparison.
+Or, better still, feed your solution into the AI and ask for
+improvements.
+
+Keep in mind that some of the "improvements" aren't going to be
+improvements at all, and you'll want to ignore them. Cast that critical
+eye. [Be opinionated](#be-opinionated) and have a rationale for what
+advice you're accepting and which you're rejecting.
+
+Lastly, there's another time it's fine to use AI to solve entire
+projects: when your instructor says you can. This happens when they're
+giving you more real-world practice as opposed to lifting weights. Both
+are valuable uses of your study time.
 
 ## How to Use AI at Work
 

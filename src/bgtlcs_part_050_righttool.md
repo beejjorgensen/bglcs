@@ -46,7 +46,7 @@ And since you're dying to know, my favorite language is Rust.
 Or Python. Or C. Or JavaScript. Or SQL. Or AWK. Or Bash. Or... well, it
 just depends on what problem I'm solving!
 
-## Be Opinionated
+## Be Opinionated {#be-opinionated}
 
 Didn't I just finish telling you that you should give all languages a
 fair shake and not play favorites?

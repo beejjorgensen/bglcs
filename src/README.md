@@ -21,6 +21,7 @@
   * Rubber ducking
   * Answer immediate questions now, write down later questions
 * Learning a language
+* Debugging
 * Use of AI
 
 ## Teaching
