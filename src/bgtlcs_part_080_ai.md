@@ -153,6 +153,9 @@ when they need to learn more. That is, experienced devs have a nose for
 dangerous code and know when they need to proceed carefully and gather
 more knowledge.
 
+In this regard, AI can be really useful for doing proof-of-concept work
+and rapid prototyping where the code is often throwaway.
+
 > _"Let us hurry! There is nothing to fear here!"_\
 > _"That's what scares me."_
 >
