@@ -395,3 +395,39 @@ the final reflect step! What would you do better? How could the solution
 be improved? Interviewers love that stuff, and you love keeping
 interviewers happy, right?
 
+## Cost per Phase
+
+One note related to the problem-solving framework is that *the cost of
+changes to the software increases exponentially the farther you are in
+development*.
+
+When you're at the _Understanding_ phase, changes are really cheap.
+They're free. You haven't even come up with a plan yet, and you're just
+spitballing.
+
+Then when you get to the _Plan_ phase, changes are still pretty cheap.
+Not free—if you need to make a change, it might influence other parts of
+the plan, and those will need to be replanned, or maybe more
+understanding becomes necessary.
+
+Next, getting to the _Coding_ phase, now changes are starting to
+actually be painful. Maybe a change involves throwing away and redoing
+code for thousands or millions of dollars in developer costs. Companies
+make changes like this on the fly all the time, though. They just do the
+cost-benefit analysis and decide if it's worth it.
+
+Finally, after the code ships, now changes are *really* expensive.
+Not only do we have to re-ship a bunch of code, but our customers hate
+the fact that we're requiring updates, and so we have all kinds of
+hidden secondary costs associated with the change.
+
+From a student perspective, you don't worry so much about how much money
+your software project is going to cost your company. You're more worried
+that you'll have enough time to complete it (along with everything else;
+don't your teachers know you have more than one class?) with a decent
+grade.
+
+So what you need to do is focus your attention on _Understand_ and
+_Plan_ *where changes are cheap in terms of time*. This will get you the
+best results quickly with the least programming pain.
+
