@@ -9,6 +9,8 @@
   * Learning is hard
 * How to solve any problem
   * Understand, plan, code, reflect
+* Breaking down problems, pseudocode, proof of concept
+* Debugging
 * Right tool for the job
 * Be critical and opinionated
   * Be opinionated
@@ -21,7 +23,6 @@
   * Rubber ducking
   * Answer immediate questions now, write down later questions
 * Learning a language
-* Debugging
 * Use of AI
 
 ## Teaching
