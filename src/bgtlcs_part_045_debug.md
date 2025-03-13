@@ -45,8 +45,26 @@ And then fixing it.
 If you don't have a mental model, you don't have anything to compare
 against and you'll make little progress.
 
-*Study code*! Trace through it. Try to understand how it works before
-you run it. This is a skill that you can improve with practice.
+How do your improve your mental model of computation?
+
+* **Study code**. Trace through it. There's a ton of code out there to
+  practice with, e.g. on GitHub, on HackerRank, your peers' codebases,
+  your own stuff that you wrote four months ago and have forgotten how
+  it works, etc.
+
+* **Predict the output**. As you learn the code, try to predict how it
+  will behave when run.
+
+* **Manually trace a run**. Use a whiteboard to manually track what values
+  variables take on, what functions get called, and what line of code is
+  executing.
+
+* **Write a specification**. Study some code and "reverse engineer" it.
+  Figure out what it does, then write a human-readable spec that
+  perfectly describes the algorithm or codebase to the degree that a
+  reader could reimplement it from scratch.
+
+You'll definitely improve this skill with practice.
 
 ## Finding the Bug
 
@@ -192,6 +210,49 @@ you ship your work!
 
 ## Debuggers
 
-TODO
+Debuggers are tools that help you find bugs. There are many different
+debuggers, but they have basically a common set of features. The two
+main features are:
 
-## Time-travel debuggers
+* Add _breakpoints_ where the program will stop running and you'll get
+  control in the debugger
+* "Single step" through a program a line at a time
+* Examine the values of variables
+
+Additional features that are common are:
+
+* Stepping into a function
+* Continuing out of a function
+* Stepping over a function
+* Setting the values of variables
+* Examining the call stack
+* Setting breakpoints that trigger conditionally
+
+Rarer are _time-travel debuggers_. In addition to allowing you to step
+forward through your program, they allow you to step backward, as well!
+This is great if you step past the bug by accident and want to step back
+to see it.
+
+Virtually all IDEs have debugger functionality. (It's part of what's
+"integrated", the "I" in "IDE".) There are also standalone debuggers
+that you can run.
+
+And virtually all languages have some kind of debugger support.
+
+As you might imagine, with those features, debuggers are really
+powerful.
+
+If you suspect a bug in function `foo()`, you can set a breakpoint
+there, run the code, and then get control of the debugger when `foo()`
+executes. Then you can step through it a line at a time, looking at how
+the values of variables change.
+
+It's powerful, and there's no need to add any print statements.
+
+Note that in VS Code, getting your debugger set up might be trivial, or
+you might have to edit some esoteric JSON files to get it going.
+
+In any case, learning to use a debugger is a valuable skill that can
+save you massive amounts of time while you're trying to track down that
+pesky gremlin in your code.
+
