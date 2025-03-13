@@ -126,7 +126,46 @@ are valuable uses of your study time.
 
 ## How to Use AI at Work
 
-TODO
+First, a caveat: the last time I was working in production (and I did so
+for 20 years), AI as we know it today did not exist. That said, I do use
+it to get things done more quickly today. So that's my level of
+"expertise".
+
+I'd mentioned earlier that new devs solve problems with logical
+reasoning, but experts recognize patterns. As a more-experienced dev,
+you have a better understanding of which building blocks make up a
+problem. You recognize the pieces that you need, and you logically
+reason about how to assemble them.
+
+In other words, experienced devs are better at Understand and Plan.
+(They're better at all phases, but recall that Understand and Plan is
+where the battle is.)
+
+As such, they can leverage AI to help them write the code for those
+building blocks. They can say things like, "I need to filter those
+results for anything that matches this regular expression"—and then they
+ask an AI to code up that building block, they expertly verify that the
+code is correct and modify it to suit their needs, and then move on.
+
+Even with technologies they aren't familiar with, this can help them get
+the job done. But they still need to rely on their expertise to know
+when they need to learn more. That is, experienced devs have a nose for
+dangerous code and know when they need to proceed carefully and gather
+more knowledge.
+
+> _"Let us hurry! There is nothing to fear here!"_\
+> _"That's what scares me."_
+>
+> —Satipo and Indiana Jones, _Raiders of the Lost Ark_
+
+Again, as a student, you can't bring that experience (that you haven't
+yet acquired) to bear, and if you just try to use AI like a seasoned
+dev, you're going to have buggy, fragile code that you don't know how to
+fix. And worst of all, you won't be developing the skills you need.
+
+But as you gather more experience, you can definitely rely on AI to
+write a large amount of boilerplate code for you that you already know
+the logic behind, anyway.
 
 ## AI and the Jobs Market
 
@@ -192,12 +231,8 @@ that compilers afford.
     else.
 
 In short, I think we're going to keep pushing it, and AI will become a
-very useful tool, but only with humans at the helm.
+very useful tool, but only with humans at the helm. But we'll see.
 
-And yes, it's pretty terrifying to think that I might be wrong. But I
-think if AI is good enough to take over all the programming jobs, then
-it's also good enough to take over basically all jobs, and our global
-economic system will implode and I guess it's all back to farming and
-ranching.
-
-Just wanted to end on an upbeat note. TODO
+> _"And... Always look on the bright side of life..."_
+>
+> —Lead Singer Crucifee, _Monty Python's Life of Brian_
