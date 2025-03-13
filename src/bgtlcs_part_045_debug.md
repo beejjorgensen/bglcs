@@ -57,10 +57,10 @@ output.
 Somewhere in that big process the reality of the computation diverges
 from your mental model of the computation.
 
-At first all you might know is that somewhere in 10,000 lines of code
+At first, all you might know is that somewhere in 10,000 lines of code
 something went wrong. So you've narrowed it down to that. Your mental
 model said that if the input was `2`, the output would be `3490`. And
-instead the output was `187253`.
+instead the output was `299792458`.
 
 Therefore you know the bug is somewhere between the input and the
 output.
@@ -88,8 +88,8 @@ again until you narrow it down far enough to see the bug.
 
 I would contend, though some might disagree, *the bug is not found until
 you understand it*. That is, you **must** understand exactly how your
-program was giving the output `187253` instead of the expected `3490`.
-Gaining that full understanding has a couple benefits:
+program was giving the output `299792458` instead of the expected
+`3490`. Gaining that full understanding has a couple benefits:
 
 * You can be more confident you've fixed the bug for-realsies.
 * You will learn to recognize the patterns that led to this bug,
@@ -101,6 +101,94 @@ and correctly fix the issue, and know why the fix will work.
 
 ## Print Debugging
 
+The good old-fashioned standard way of probing software in the middle of
+a run is called _print debugging_, or, if you're a C programmer, _printf
+debugging_ (pronounced "print eff").
+
+This is basically just tactically placing print statements inside your
+code to see what state your program is in.
+
+There are a couple common uses of this:
+
+* Print anything at all to see if some part of the code actually
+  executes.
+
+  ``` {.python}
+  print("A")
+
+  x = foo()
+
+  print("B")
+
+  if x == 3:
+      print("C")
+      x *= 2
+  else:
+      print("D")
+      bar()
+
+  print("E")
+  ```
+
+  Notice that when I run the code, I can see how far it gets before a
+  crash, and I can determine if `x` were `3` or not.
+
+* Print some specific values to see what they are.
+
+  Here's an example where we're getting data from some sensor in a loop
+  for processing. We suspect that some of the data is wonky (maybe the
+  sensor is busted) so we're printing it out to see what we get.
+
+  ``` {.python}
+  while not done:
+      data = get_sensor_data()
+
+      print(f"Got sensor data: {data}")
+
+      process_sensor_data(data)
+
+      done = data < 0
+  ```
+
+
+> **Don't use f\-\-king profanity in your debugging statements.**
+> Murphy's Law says that if you do use profanity, you'll forget to take
+> it out and even though it was in some part of the code that you're
+> certain will never run, it will inevitably pop onto the screen while
+> you're doing a client demo with your boss the day he's assessing you
+> for a raise.
+>
+> I know as well as anyone how infuriating programming can be. And when
+> I'm feeling that way and forget to take a deep breath and recenter, I
+> print this:
+>
+> ``` {.python}
+> print("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+> ```
+>
+> <!-- ` --> Not only does it stand out nice and clear on the screen,
+> but it's really easy to type in frustration and helps dispel some of
+> my bad energy. And if the client sees it, it's a minor transgression.
+
+Now, print debugging is kinda frowned upon as a lesser means of
+debugging compared to using a real debugger (as in the following
+section). But everyone does it at some point or another, and some
+people even swear by it.
+
+The place that I think it really shines is when you need to gather a lot
+of data about the run to see a larger pattern emerge, or when you need
+to catch an infrequent event. If something happens one run in 10,000,
+single stepping through with a standard debugger is going to take
+forever. You can add some print statements and script a run 10,000 times
+and watch the output to see when it manifests.
+
+One thing to watch out for is that if you're printing a lot, it can be
+tough to visually parse the output, and error messages might be lost in
+it. I'd recommend redirecting the output to a file and then bringing it
+up in an editor to search.
+
+And, finally, don't forget to remove all your print statements before
+you ship your work!
 
 ## Debuggers
 
