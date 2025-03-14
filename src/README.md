@@ -8,28 +8,29 @@
 
 ## Learning
 
-* Main goal: learn to solve a difficult problem
-* Mindset
-  * Tenacity
-  * Learn from failures
-  * Learning is hard
-* How to solve any problem
-  * Understand, plan, code, reflect
-* Breaking down problems, pseudocode, proof of concept
-* Debugging
-* Right tool for the job
-* Be critical and opinionated
-  * Be opinionated
-  * Think like a villain
-* Hack your brain
-  * Read ahead
-  * Walks
-  * Rewrite the problem in your own words
-  * Stuck for 20 minutes
-  * Rubber ducking
-  * Answer immediate questions now, write down later questions
-* Learning a language
-* Use of AI
+- Main goal: learn to solve a difficult problem
+- Mindset
+  - Tenacity
+  - Learn from failures
+  - Learning is hard
+- How to solve any problem
+  - Understand, plan, code, reflect
+- Breaking down problems, pseudocode, proof of concept
+* Clean Code
+- Debugging
+- Right tool for the job
+- Be critical and opinionated
+  - Be opinionated
+  - Think like a villain
+- Hack your brain
+  - Read ahead
+  - Walks
+  - Rewrite the problem in your own words
+  - Stuck for 20 minutes
+  - Rubber ducking
+  - Answer immediate questions now, write down later questions
+- Learning a language
+- Use of AI
 
 ## Teaching
 
@@ -99,12 +100,12 @@
 - Learning new programming paradigms is harder than learning new
   languages.
 - Learning new languages in a paradigm you know will become easy.
-* Learning new things is hard.
-  * In school, you learn new things 100% of the time without a break.
-  * At work, you learn new things 100% of the time for about 3 months.
+- Learning new things is hard.
+  - In school, you learn new things 100% of the time without a break.
+  - At work, you learn new things 100% of the time for about 3 months.
     After that, it gets a lot easier. After two years, boredom.
-* Join a club!
-* What to expect at work.
+- What to expect at work.
+- Join a club!
 
 ## Core ideas of teaching
 
