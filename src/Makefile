@@ -1,4 +1,4 @@
-TITLE="Beej's Guide to Teaching and Learning Computer Science"
+TITLE="Beej's Guide to Learning Computer Science"
 SUBTITLE=""
 AUTHOR='Brian “Beej Jorgensen” Hall'
 VERSION_DATE="v0.0.1, Copyright © August 27, 2024"
