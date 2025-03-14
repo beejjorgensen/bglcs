@@ -144,7 +144,8 @@ insert the value there
 ```
 
 And we're getting dangerously close to being able to translate our
-pseudocode to real code.
+pseudocode to real code. Indeed, sometimes devs add the pseudocode to
+their real code as comments and implement the real code under them.
 
 This is a powerful tool to use during the _Plan_ phase. It can really
 help solidify your thinking on the overall process.

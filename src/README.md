@@ -82,21 +82,21 @@
 - "Lose first 50 games as quickly as possible"
 - Be opinionated with a rationale
 - Failures can be better teachers than successes.
-* Read the assignment right now, even if you don't understand it, and
+- Read the assignment right now, even if you don't understand it, and
   even if you're not going to code it until Sunday. Get your brain
   chewing on it.
-* Build an interconnected web of knowledge. All techniques are related,
+- Build an interconnected web of knowledge. All techniques are related,
   and the more you know, the easier time you've have generating
   solutions to novel problems.
-* If you have a bug, don't try another approach without first fully
+- If you have a bug, don't try another approach without first fully
   understanding why the bug is occurring.
+- Learning new programming paradigms is harder than learning new
+  languages.
+- Learning new languages in a paradigm you know will become easy.
 * Learning new things is hard.
   * In school, you learn new things 100% of the time without a break.
   * At work, you learn new things 100% of the time for about 3 months.
     After that, it gets a lot easier. After two years, boredom.
-* Learning new programming paradigms is harder than learning new
-  languages.
-* Learning new languages in a paradigm you know will become easy.
 * Join a club!
 * What to expect at work.
 

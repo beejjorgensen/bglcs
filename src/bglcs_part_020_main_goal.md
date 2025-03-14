@@ -1,11 +1,11 @@
 # The Main Goal
 
-> "Education is not preparation for life; education is life itself."
+> _"Education is not preparation for life; education is life itself."_
 >
 > —John "Not The Decimal System One" Dewey
 
-> "The illiterate of the 21st century will not be those who cannot read
-> and write, but those who cannot learn, unlearn, and relearn."
+> _"The illiterate of the 21st century will not be those who cannot read
+> and write, but those who cannot learn, unlearn, and relearn."_
 >
 > —Alvin Toffler
 
