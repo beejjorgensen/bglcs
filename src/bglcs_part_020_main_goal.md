@@ -50,7 +50,7 @@ learn Go programming on your own_.
 That's it. Everything else is window dressing.
 
 Being able to learn things on your own is a **required** skill when it
-comes to software development. It's **really** unlikely that your first
+comes to software development. It's *really* unlikely that your first
 job will solely use technologies you've used in school. And, in fact,
 recently-graduated students might be surprised to find out that **none**
 of the technologies they've used at school are present in their first
@@ -60,8 +60,8 @@ So why on Earth did we just spend four years learning all this crap
 about operating systems and assembly language and algorithmic analysis
 and—?
 
-*EERRRNT!* You didn't just spend four years doing that. You just spent
-four years *learning to solve any programming problem*.
+*EERRRNT!* [buzzer sounds] You didn't just spend four years doing that.
+You just spent four years *learning to solve any programming problem*.
 
 And think about it. How would you teach people to solve *any* problem?
 Well, you can't exhaustively teach them [flw[all zillion programming
@@ -77,10 +77,10 @@ specific languages or algorithms you've learned. The one thing you will
 be able to use is your problem-solving skill.
 
 Finally, there's a bit of a corollary here: when you're learning to do
-something you'll never use at work, *don't cheat*. The goal isn't to
-learn how to delete the head of a linked list. The goal is to practice
-solving programming problems! And just looking up the answer deprives
-you of that practice. Cheat your way through all the assignments at
-school and you'll never develop the one fundamental skill of software
-developers: being able to solve any programming problem.
+something (even if you'll never use it at work), *don't cheat*. The goal
+isn't to learn how to delete the head of a linked list. The goal is to
+practice solving programming problems! And just looking up the answer
+deprives you of that practice. Cheat your way through all the
+assignments at school and you'll never develop the one fundamental skill
+of software developers: being able to solve any programming problem.
 

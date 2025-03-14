@@ -11,32 +11,40 @@
 [is[Git Log==>see Log]]
 -->
 
-Boy, did you come to the wrong place! What you have here is a book
-written by a programmer with 20 years of industry experience who has
-been teaching computer science since 2017.
+Are you getting into Computer Science, or thinking about it? Or maybe
+you're in it already. This super-high-level guide is for you!
 
-And I have opinions about how to teach and learn computer science!
+I'm not going to talk about how to write code (much). I'll I'm going to
+talk about in these roughly 30 pages is more about _how to learn_ when
+you're a nascent software developer.
+
+Now, as much as I'd like to know exactly the way that everyone learns
+(and manage to wedge that into 30 pages), I, to be perfectly honest,
+don't.
+
+What I do have is 40+ years of programming experience (self-taught
+before college), 20 years of industry experience, and 8+ years of
+teaching experience. And a BS and MS in Computer Science.
+
+And I have opinions about how to best way to learn how to program!
 
 Now, let's get this right out of the way: you might completely disagree
-with my stance(s). And I'm okay with that.
+with what I have to say here. And I'm okay with that.
 
-But with my meager experience, I have had the opportunity to see
-students make a variety of mistakes. And hopefully I can head some of
-these off at the pass for a number of readers.
+But I have had the opportunity to see students make a wide variety of
+mistakes. And hopefully I can head some of these off at the pass for a
+number of readers.
 
-Students and teachers, alike: if you find something you disagree with,
-please don't hesitate to let me know so I can improve the guide.
+Students and teachers, alike: if you find something you disagree with or
+something vital that is missing, please don't hesitate to [fl[let me
+know|mailto:beej@beej.us]] so I can improve the guide.
 
 Disclaimer: like with all the guides I write, I'm not the master of the
-subject. And with a squishy topic like teaching and learning, I'm even
-less so. And full disclosure: I only have a BS and MS in CS.
+subject. And with a squishy topic like how humans learn, I'm even less
+so.
 
 But give it a read and take what's useful and leave the rest for the
 [flw[boids|Boids]].
-
-Note that this is not a programming guide, _per se_. This is stepping
-back a meta level and talking about things that make you a better
-developer in general.
 
 ## Audience
 
@@ -50,6 +58,19 @@ are also probably out there in the audience, as well.
 This official location of this document is:
 
 [fl[`https://beej.us/guide/bglcs/`|https://beej.us/guide/bglcs/]].
+
+## Corrections
+
+I make these guides available for free in the sincere hope that people
+will find them maximally useful. If there's something that's not
+maximally useful (or, you know, "wrong"), I'd love to hear about it so I
+can fix it in furtherance of my mission.
+
+* [fl[Email me|mailto:beej@beej.us]]
+* [fl[Report an issue|https://github.com/beejjorgensen/bglcs/issues]]
+* [fl[Submit a pull request|https://github.com/beejjorgensen/bglcs]]
+
+Thank you!
 
 ## Email Policy
 

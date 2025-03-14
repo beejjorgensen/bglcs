@@ -43,10 +43,9 @@ tabletop?
 And so on. *We keep breaking down the problem until we get the step
 small enough that we know we can accomplish it.*
 
-When you're first starting out, the steps might be single lines of code
-that you eventually boil the problem down into. Experienced devs often
-don't have to break it down that far because they are well-versed in the
-substeps.
+When you're first starting out, you might have to boil the problem down
+into single lines of code. Experienced devs often don't have to break it
+down that far because they are well-versed in the sub-steps.
 
 For example, a carpenter with modest experience might only need to break
 down building a table into our second set of steps, above, and not go
@@ -55,15 +54,15 @@ into such detail.
 Like everything, breaking down a problem is a skill, and you get better
 with practice.
 
-When breaking down problems, complete the probing question we talked
-about earlier, "This problem would be easy if the input data were in
-_this_ form." That's a hint that you should break out a subproblem that
-converts the data into that form.
+When breaking down problems, think back to our earlier consideration:
+"This problem would be easy if the input data were in _this_ form."
+That's a hint that you should break out a subproblem that converts the
+input data into that form, thus making the problem easy.
 
 And once you have a subproblem, pretend that it's the entire problem,
-just for a bit. Focus myopically on it and see if you can solve it. If
-not, ask yourself what would make it easy to solve, and break that out
-into a subproblem.
+just for a bit. Focus closely on it and see if you can solve it in
+isolation. If not, ask yourself what would make it easy to solve, and
+break that out into a subproblem.
 
 Repeat.
 
@@ -144,8 +143,12 @@ insert the value there
 ```
 
 And we're getting dangerously close to being able to translate our
-pseudocode to real code. Indeed, sometimes devs add the pseudocode to
-their real code as comments and implement the real code under them.
+pseudocode to real code. Maybe it's still unclear how we're going to
+shift all the values to the right, and we should break that out a bit
+more.
+
+Sometimes devs add the pseudocode to their real code as comments and
+implement the real code under them.
 
 This is a powerful tool to use during the _Plan_ phase. It can really
 help solidify your thinking on the overall process.
@@ -153,7 +156,7 @@ help solidify your thinking on the overall process.
 ## Proof of Concept
 
 What if you've broken down the bigger problem into smaller subproblems,
-but you simply don't know if one of the things is possible to do.
+but you simply don't know if one of the things is even possible to do.
 
 For example, "Can you render an image to an HTML canvas and then save
 that image directly to the photo gallery on a mobile phone?" Maybe
@@ -167,9 +170,11 @@ like a rectangle, and then add the code to download it when a button is
 pressed.
 
 This used to involve a lot of reading books and, later, searching the
-web. And it still sometimes does. But more commonly now we lean on AI to
-answer the "is it possible and how" questions, and even come up with
+web. And it still often does. But more commonly now we lean on AI[^4914]
+to answer the "is it possible and how" questions, and even come up with
 some proof-of-concept code.
+
+[^4914]: Again, if allowed in your work or school environment.
 
 Once you have the code working, you know two things:
 

@@ -247,3 +247,43 @@ As you learn to code, look for ways that the thing you're learning about
 now connects to the rest of the programming world you've already
 explored. Make those connections so you can exploit them later.
 
+## Get and Give Code Reviews
+
+It can be really hard to put your code out there and ask someone to give
+you advice on how to make it better. It's easy to take that advice
+personally.
+
+But fight that urge, and treat every code review you get like a gift.
+Someone was willing to spend their time helping you become a better
+coder, usually at no cost to you.
+
+> **Be nice during code reviews** no matter if you're the reviewee or
+> the reviewer. Be supportive with your feedback, be modest, and don't
+> take negative feedback personally.
+
+And if you can't find a human to help, feed it to an AI chatbot and ask
+it to review your code.
+
+Even if you're not well-versed in the subject matter, that shouldn't
+stop you from giving a code review if you can. Just reading other
+people's code exposes you to different coding styles and algorithmic
+patterns that you might not have been aware of.
+
+But remember to always [be opinionated](#be-opinionated) about the
+feedback you get, and use critical judgment when deciding whether or not
+to incorporate it.
+
+## Join a Club
+
+Coding has historically and generally been a solo endeavor—at least the
+part where you're sitting at the keyboard typing things. And even during
+the _Understand_ and _Plan_ phases it can be tempting to work alone.
+
+Joining a like-minded group of people where you can bounce around ideas
+(or even just vent) can really help your brain unstuck from ruts and get
+you to approach problems in ways you hadn't considered or been aware of.
+
+It's also good for networking, and lots of clubs have interesting
+presentations you can attend. Or even better, present at!
+
+Clubs can help the lonely fight feel a lot less lonely.

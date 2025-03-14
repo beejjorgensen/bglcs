@@ -8,7 +8,7 @@ wouldn't ever say to anyone else.
 And I do this even though I know it's a losing game and it contradicts
 the exact advice I give in this section.
 
-What's better?
+What should I be doing, instead?
 
 Psychologist [flw[Carol Dweck|Mindset#Fixed_and_growth_mindset]]
 popularized the term *growth mindset*.
@@ -29,13 +29,17 @@ It's the opposite of what I tend to do when I lose my bazillionth game
 of [flw[Go|Go_(game)]]. How could I have made so many stupid mistakes?
 I'll never be good at this!
 
-But that's what Dweck would refer to as a "fixed" mindset. It's my
+But that's what Dweck would refer to as a _fixed mindset_. It's my
 mistaken belief that no matter how much I play the game, I'm up against
 my own intrinsic limitations that I'll never get past no matter if I
 study for 500,000 hours!
 
 And when I put it that way, it's kinda silly. No one can spend 500,000
 hours doing *anything* without getting better at it.
+
+> _Lose your first 50 games as quickly as possible._
+>
+> —Go proverb
 
 So what about 50,000 hours? 500 hours? 50 hours? 5 hours?
 
@@ -55,17 +59,13 @@ if they turn out to be dead-ends, you've at least learned that they are!
 > —My sarcastic mother
 
 Every success is a learning experience. Every failure is a learning
-experience.
+experience. Every learning experience improves your skills.
 
 ## Tenacity
 
 > _"The master has failed more times than the beginner has even tried."_
 >
 > —Stephen McCranie
-
-> _Lose your first 50 games as quickly as possible._
->
-> —Go proverb
 
 I think this is one of the main attributes of anyone who grows to excel
 at anything. (How's that for a generalization?)
@@ -91,11 +91,12 @@ try... except that wasn't the first try, was it? It was, like, the 100th
 time they've done it. You code up a linked list delete from scratch 100
 times and you'll be getting it right on the first try, too!
 
-Instructors might be doing things that seem to be amazing, and this
-might make you think that you'll never be that good because this stuff
-seems to come so naturally to them and it's so _impossible_ for you.
-What magical skill were they endowed with in the womb that you will
-never have? (Hear that fixed mindset talking?) 
+When watching an instructor make something look effortless, you might
+become disheartened because this material seems so _impossible_ for you.
+And you start to think that your instructors and some of your peers have
+a natural ability to code that you simply weren't born with. What
+magical skill were they endowed with in the womb that you will never
+have? (Hear that fixed mindset talking?) 
 
 But here's the secret: there's no difference between you and your
 instructors other than the number of failures you've had. You'll need to
@@ -109,9 +110,9 @@ the world.
 
 ## You Gotta Want It
 
-When I was thinking about getting a PhD (I didn't), my adviser advised
-that, "You gotta want it." The implication was that it was so much work
-to get a PhD that I had to have enough drive to put in the time.
+When I was thinking about getting a PhD (I didn't), my adviser advised,
+"You gotta want it." The implication was that it was so much work to get
+a PhD that I had to have enough drive to put in the time.
 
 And I think this is good advice in general about learning Computer
 Science.
@@ -173,8 +174,8 @@ of ability to learn computer science. You just have to keep hammering
 away just like everyone else.
 
 You wouldn't doubt that juggling 11 balls at once is difficult for
-everyone, would you? [fl[And yet, people
-do|https://www.youtube.com/watch?v=cJsgM-3L38U]].
+everyone, would you? [fl[And yet, people can do
+it|https://www.youtube.com/watch?v=cJsgM-3L38U]].
 
 > _"You know how to get to Carnegie Hall?"_\
 > _"Practice!"_
@@ -183,3 +184,19 @@ do|https://www.youtube.com/watch?v=cJsgM-3L38U]].
 
 Reps, reps, reps, reps.
 
+When you're at school, you actually have it even worse than at a job. In
+school, you're continuously learning new things and, just when you
+_barely_ have a grasp of a topic, you move on and try to learn something
+else that's incredibly challenging. An undergrad degree is four solid
+years of just barely being able to hang on to the massive amount of
+perpetually novel material you're presented with.
+
+And when you do finally get your degree and a job, the first three
+months of that job are _also_ a high-paced barely-hanging-on learning
+experience.
+
+But then after three months, you start to get a handle on the code. And
+it gets easier. The feeling of hanging on by your fingernails does start
+to abate. And—I know this might be hard to believe now—eventually the
+job might actually get so easy as to be boring. And then you'll look for
+another one with new, exciting challenges to tackle.
