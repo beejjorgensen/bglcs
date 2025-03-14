@@ -1,9 +1,9 @@
-# Beej's Guide to Teaching and Learning CS
+# Beej's Guide to Learning CS
 
-This is the source for Beej's Guide to Teaching and Learning CS.
+This is the source for Beej's Guide to Learning CS.
 
 If you merely wish to read the guide, please visit the [Beej's Guide to
-Teaching and Learning CS](https://beej.us/guide/bgtlcs/) website.
+Learning CS](https://beej.us/guide/bglcs/) website.
 
 This is here so that Beej has everything in a repo and so translators
 can easily clone it.
@@ -43,7 +43,7 @@ for Pandoc](https://github.com/beejjorgensen/bgbspd).
 You'll want to clone that repo as a sibling to this one:
 
 ```
-mystuff-->bgtlcs
+mystuff-->bglcs
       \-->bgbspd
 ```
 
