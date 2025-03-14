@@ -1,5 +1,11 @@
 # Outline
 
+## TODO
+
+* Cover all bullets
+* Chapter questions
+* Index
+
 ## Learning
 
 * Main goal: learn to solve a difficult problem
