@@ -1,4 +1,4 @@
-PACKAGE=bgtlcs
+PACKAGE=bglcs
 BGBSPD_BUILD_DIR?=../bgbspd
 
 WEB_IMAGES=$(wildcard src/*.svg src/*.png)
