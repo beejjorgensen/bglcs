@@ -72,18 +72,124 @@ better you'll get at it. Soon you won't have to break down problems
 quite as far as you needed to before, and, like an expert, you'll start
 recognizing patterns you can reuse.
 
-However, it's not always obvious _how_ to break down a problem. One
-technique is to imagine a physical manifestation of the thing you're
+However, it's not always obvious _how_ to break down a problem.
+
+One technique is to imagine a physical manifestation of the thing you're
 trying to code. (For example, you're writing a sort? Imagine a bunch of
 alphabet blocks on a table and you have to sort them.)
 
-TODO
+And then, to push it farther, imagine that you're teaching a
+non-technical friend how to solve it. How would you describe the steps?
+The conditionals? When they're done?
+
+If you can physically sort the books on your shelf (whatever "books"
+are), you can write an algorithm to do that exact same thing. You just
+need to break down the steps.
 
 ## Pseudocode
 
-TODO
+One of the bigger tools that devs use to explore ideas is to write
+pseudocode. This is "code for humans". Computers can't read it. (Though
+some might argue that Python is pretty close to pseudocode.)
+
+But you can use it to outline steps of an algorithm or process to do a
+sanity check or just explore how you might get something done.
+
+You could write some pseudocode to insert a value into an already-sorted
+list of values.
+
+``` {.default}
+find correct spot in list
+insert the value there
+```
+
+But that's not really descriptive enough. We might have to break it
+down.
+
+``` {.default}
+find correct spot in list
+    → find first entry larger than the new one
+    
+insert the value there
+    → shift all the higher values to the right
+    → insert the new value in the newly-opened spot
+```
+
+Getting there.
+
+
+``` {.default}
+find correct spot in list
+    find first entry larger than the new one
+        → loop through items, stop when you find a larger one
+    
+insert the value there
+    shift all the higher values to the right
+    insert the new value in the newly-opened spot
+```
+
+And now it's becoming a little clearer.
+
+
+``` {.default}
+find correct spot in list
+    find first entry larger than the new one
+        loop through items, stop when you find a larger one
+        → record the index before it
+    
+insert the value there
+    shift all the higher values to the right
+    insert the new value in the newly-opened spot
+        → set the list item at the index to the new value
+```
+
+And we're getting dangerously close to being able to translate our
+pseudocode to real code.
+
+This is a powerful tool to use during the _Plan_ phase. It can really
+help solidify your thinking on the overall process.
 
 ## Proof of Concept
 
-TODO
+What if you've broken down the bigger problem into smaller subproblems,
+but you simply don't know if one of the things is possible to do.
 
+For example, "Can you render an image to an HTML canvas and then save
+that image directly to the photo gallery on a mobile phone?" Maybe
+you've never done that, and you don't know if the phone and web
+technology even have that capability.
+
+One sure way to find out is to code up a proof of concept.
+
+So you make a web page, add a canvas, draw something distinctive on it,
+like a rectangle, and then add the code to download it when a button is
+pressed.
+
+This used to involve a lot of reading books and, later, searching the
+web. And it still sometimes does. But more commonly now we lean on AI to
+answer the "is it possible and how" questions, and even come up with
+some proof-of-concept code.
+
+Once you have the code working, you know two things:
+
+1. It works!
+2. How to write the code to do it.
+
+Usually the proof-of-concept code isn't production-ready, but forms the
+core of what you'll eventually deliver.
+
+Another use of proof-of-concept code is to demonstrate to people what
+the finished product will look or how it will behave. Sometimes people
+code up a mock implementation where only a small part of the UI is
+operational but a viewer can get the gist of how the software will
+eventually work.
+
+Often the majority of the code you wrote up for the proof of concept
+will be thrown away, and you might feel some resistance to discarding
+that work. But don't worry about it. The important part of the
+proof of concept is the knowledge gained while doing the work, not the
+work itself.
+
+> _"Plan to throw one away; you will, anyhow."_
+>
+> —Fred Brooks, _The Mythical Man-Month_
