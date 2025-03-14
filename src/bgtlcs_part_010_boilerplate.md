@@ -1,5 +1,5 @@
-<!-- Beej's guide to Teaching and Learning Computer Science
-
+# Foreword
+<!-- Beej's guide to Learning Computer Science
 # vim: ts=4:sw=4:nosi:et:tw=72
 -->
 
@@ -11,67 +11,41 @@
 [is[Git Log==>see Log]]
 -->
 
-# Foreword
-
 Boy, did you come to the wrong place! What you have here is a book
 written by a programmer with 20 years of industry experience who has
 been teaching computer science since 2017.
 
-And I have an opinion about how to teach and learn computer science!
+And I have opinions about how to teach and learn computer science!
 
 Now, let's get this right out of the way: you might completely disagree
 with my stance(s). And I'm okay with that.
 
 But with my meager experience, I have had the opportunity to see
-students make a variety of mistakes. And I've also seen instructors make
-what I consider to be mistakes, as well[^d01a]. And hopefully I can head
-some of these off at the pass for a number of readers.
+students make a variety of mistakes. And hopefully I can head some of
+these off at the pass for a number of readers.
 
-[^d01a]: Of course, they figure they're right and that _I'm_ the one
-    making mistakes. And maybe they're right! What can ya do.
-
-Instructions for students: I encourage you to read both the teaching and
-learning part of this guide. And if you find something you disagree
-with, please don't hesitate to let me know so I can improve the guide.
-
-Instructions for teachers: I encourage you to read both the teaching and
-learning part of this guide. And if you find something you disagree
-with, please don't hesitate to let me know so I can improve the guide.
-
-Why is this a single tome? Teaching and learning are completely
-intertwined. To teach, the teacher must learn to be a learner. To learn,
-the learner must learn to be a teacher. This is why I feel there's
-something to be had for all audiences in both the teaching and learning
-sections of the guide.
+Students and teachers, alike: if you find something you disagree with,
+please don't hesitate to let me know so I can improve the guide.
 
 Disclaimer: like with all the guides I write, I'm not the master of the
 subject. And with a squishy topic like teaching and learning, I'm even
-less so.
+less so. And full disclosure: I only have a BS and MS in CS.
 
-So give it a read and take what's useful and leave the rest for the
+But give it a read and take what's useful and leave the rest for the
 [flw[boids|Boids]].
-
-But first, some boilerplate!
 
 ## Audience
 
-Both teachers and learners of computer science are the target of this
-guide. Skill level is assumed to be beginner—beyond that and you might
-know more than I have to say in these pages.
-
-As a student, I have in mind an undergrad. Some of the advice I give in
-the guide isn't good for PhDs, where you might, in fact, have to learn
-or use the things that I say you don't. This guide is not written with
-research or discovery in mind.
-
-But I'm hoping by the time you're a PhD, you have it down.
-
-Full disclosure: I only have a BS and MS in CS.
+Undergrad students just getting into programming are the people I had in
+mind while writing this. So give-or-take a bit around that target
+audience. People in high school or just looking to learn how to program
+are also probably out there in the audience, as well.
 
 ## Official Homepage
 
-This official location of this document is (currently)
-[fl[https://beej.us/guide/bgtlcs/|https://beej.us/guide/bgtlcs/]].
+This official location of this document is:
+
+[fl[`https://beej.us/guide/bglcs/`|https://beej.us/guide/bglcs/]].
 
 ## Email Policy
 
@@ -119,13 +93,15 @@ section, below.
 
 ## Copyright and Distribution
 
-Beej's Guide to Teaching and Learning Computer Science is Copyright ©
-2024 Brian "Beej Jorgensen" Hall.
+Beej's Guide to Learning Computer Science is Copyright © 2025 Brian
+"Beej Jorgensen" Hall.
 
 With specific exceptions for source code and translations, below, this
 work is licensed under the Creative Commons Attribution-Noncommercial-No
-Derivative Works 3.0 License. To view a copy of this license, visit
+Derivative Works 3.0 License. To view a copy of this license, visit:
+
 [`https://creativecommons.org/licenses/by-nc-nd/3.0/`](https://creativecommons.org/licenses/by-nc-nd/3.0/)
+
 or send a letter to Creative Commons, 171 Second Street, Suite 300, San
 Francisco, California, 94105, USA.
 
