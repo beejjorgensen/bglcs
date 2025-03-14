@@ -34,6 +34,10 @@ less so. And full disclosure: I only have a BS and MS in CS.
 But give it a read and take what's useful and leave the rest for the
 [flw[boids|Boids]].
 
+Note that this is not a programming guide, _per se_. This is stepping
+back a meta level and talking about things that make you a better
+developer in general.
+
 ## Audience
 
 Undergrad students just getting into programming are the people I had in
