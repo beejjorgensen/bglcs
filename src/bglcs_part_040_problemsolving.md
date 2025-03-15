@@ -502,5 +502,7 @@ _Plan_ where changes are cheap *in terms of time*. This will get you the
 best results quickly and efficiently (and hopefully by the due date)
 with the least programming pain.
 
+## Chapter Reflection
+
 [i[Problem solving-->Costs]>]
 [i[Problem solving]>]

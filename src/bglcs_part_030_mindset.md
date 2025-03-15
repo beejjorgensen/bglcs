@@ -61,7 +61,8 @@ if they turn out to be dead-ends, you've at least learned that they are!
 > —My sarcastic mother
 
 Every success is a learning experience. Every failure is a learning
-experience. Every learning experience improves your skills.
+experience. Every learning experience improves your skills. Don't fear
+failure—use it to level up.
 
 ## Tenacity
 
@@ -206,5 +207,18 @@ it gets easier. The feeling of hanging on by your fingernails does start
 to abate. And—I know this might be hard to believe now—eventually the
 job might actually get so easy as to be boring. And then you'll look for
 another one with new, exciting challenges to tackle.
+
+## Chapter Reflection
+
+* Contrast _growth mindset_ with _fixed mindset_.
+
+* Have you ever been limited by a fixed mindset? What are some
+  techniques you might use to switch to a growth mindset?
+
+* Why is _tenacity_ an important quality for devs to possess?
+
+* What is main the difference between an instructor who makes something
+  look easy and a student who is struggling hard with the same material?
+  What does the student have to do to also make things look easy?
 
 [i[Growth mindset]>]

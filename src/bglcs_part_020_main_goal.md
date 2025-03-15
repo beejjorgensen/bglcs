@@ -79,11 +79,23 @@ specific languages or algorithms you've learned. The one thing you will
 be able to use is your problem-solving skill.
 
 Finally, there's a bit of a corollary here: when you're learning to do
-something (even if you'll never use it at work), *don't cheat*. The goal
-isn't to learn how to delete the head of a linked list. The goal is to
-practice solving programming problems! And just looking up the answer
-deprives you of that practice. Cheat your way through all the
-assignments at school and you'll never develop the one fundamental skill
-of software developers: being able to solve any programming problem.
+something (even if you'll never use it at work), [i[Cheating]] *don't
+cheat*. The goal isn't to learn how to delete the head of a linked list.
+The goal is to practice solving programming problems! And just looking
+up the answer deprives you of that practice. Cheat your way through all
+the assignments at school and you'll never develop the one fundamental
+skill of software developers: being able to solve any programming
+problem.
+
+## Chapter Reflection
+
+* What is the main goal of a computer science student?
+
+* Why is learning languages and frameworks *not* the main goal?
+
+* What do you have to do to accomplish the main goal?
+
+* Why is cheating in computer science classes a bad idea in terms of
+  your learning?
 
 [i[Main goal]>]
