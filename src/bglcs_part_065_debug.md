@@ -2,11 +2,10 @@
 
 Before we begin, the best way to debug a program is to not have bugs to
 begin with. Though we're only human and we'll certainly mak mstakes,
-<!-- sic --> the best way to avoid bugs in the first place is to adhere
-to the problem solving framework. Remember that the programming battle
-is in the _Understand_ and _Plan_ phases. The more completely and
-correctly you complete those phases, the fewer bugs you'll have when
-coding it up.
+<!-- sic --> the best way to avoid bugs is to adhere to the problem
+solving framework. Remember that the programming battle is in the
+_Understand_ and _Plan_ phases. The more completely and correctly you
+complete those phases, the fewer bugs you'll have when coding it up.
 
 That said, let's talk about what to do when the inevitable happens.
 
@@ -64,6 +63,9 @@ How do your improve your mental model of computation?
   perfectly describes the algorithm or codebase to the degree that a
   reader could reimplement it from scratch.
 
+* **Single-step through with a debugger**. Have the computer show you
+  how the program is flowing. We'll talk more about that, below.
+
 You'll definitely improve this skill with practice.
 
 ## Finding the Bug
@@ -90,8 +92,8 @@ often you'll just mess things up and make the problem even harder to
 find. It's like trying to fix your car's electrical issues by randomly
 adding and cutting wires. It's not even worth debugging this way.
 
-And yet despite that, it's a very common technique practiced by
-students worldwide. You, however, should not use it.
+And yet despite that, it's a very common technique practiced, in vain,
+by students worldwide. You, however, should not use it.
 
 Instead, it's time to be systematic. Somewhere in that pipeline of
 computation the intermediate computed values diverge from your mental
@@ -107,7 +109,7 @@ again until you narrow it down far enough to see the bug.
 I would contend, though some might disagree, *the bug is not found until
 you understand it*. That is, you **must** understand exactly how your
 program was giving the output `299792458` instead of the expected
-`3490`. Gaining that full understanding has a couple benefits:
+`3490`. Gaining that full understanding has a number of benefits:
 
 * You can be more confident you've fixed the bug for-realsies.
 * You will learn to recognize the patterns that led to this bug,
@@ -169,12 +171,12 @@ There are a couple common uses of this:
   ```
 
 
-> **Don't use f\-\-king profanity in your debugging statements.**
+> **Don't f\-\-\-ing use profanity in your debugging statements.**
 > Murphy's Law says that if you do use profanity, you'll forget to take
-> it out and even though it was in some part of the code that you're
+> it out, and even though it was in some part of the code that you're
 > certain will never run, it will inevitably pop onto the screen while
-> you're doing a client demo with your boss the day he's assessing you
-> for a raise.
+> you're doing a client demo with your boss on the day he's assessing
+> you for a raise.
 >
 > I know as well as anyone how infuriating programming can be. And when
 > I'm feeling that way and forget to take a deep breath and recenter, I
@@ -211,7 +213,7 @@ you ship your work!
 ## Debuggers
 
 Debuggers are tools that help you find bugs. There are many different
-debuggers, but they have basically a common set of features. The two
+debuggers, but virtually all of them share a common set of features. The
 main features are:
 
 * Add _breakpoints_ where the program will stop running and you'll get
@@ -233,11 +235,10 @@ forward through your program, they allow you to step backward, as well!
 This is great if you step past the bug by accident and want to step back
 to see it.
 
-Virtually all IDEs have debugger functionality. (It's part of what's
+All major IDEs have debugger functionality. (It's part of what's
 "integrated", the "I" in "IDE".) There are also standalone debuggers
-that you can run.
-
-And virtually all languages have some kind of debugger support.
+that you can run. And all mainstream languages have some kind of
+debugger support.
 
 As you might imagine, with those features, debuggers are really
 powerful.
@@ -245,9 +246,8 @@ powerful.
 If you suspect a bug in function `foo()`, you can set a breakpoint
 there, run the code, and then get control of the debugger when `foo()`
 executes. Then you can step through it a line at a time, looking at how
-the values of variables change.
-
-It's powerful, and there's no need to add any print statements.
+the values of variables change. And there's no need to add any print
+statements.
 
 Note that in VS Code, getting your debugger set up might be trivial, or
 you might have to edit some esoteric JSON files to get it going.

@@ -43,8 +43,8 @@ library for an example|https://docs.python.org/3/library/index.html]].
 
 ## Learning the Syntax
 
-Follow a tutorial and write "toy" programs. These are programs that just
-exercise some aspect of the language.
+Jump right in! Follow a tutorial and write "toy" programs. These are
+programs that just exercise some aspect of the language.
 
 How do we do conditionals in Rust? Let's write a toy program to check it
 out.
@@ -93,16 +93,16 @@ language. It's nice because you know everyone who has the language
 installed has all these functions already and they don't have to
 download any additional third-party dependencies.
 
-But you need to be familiar with it so that you know what the language
-can do out of the box, and so that you don't reinvent the wheel when you
-don't have to!
+But you need to be familiar with that language's standard library so
+that you know what the language can do out of the box, and so that you
+don't reinvent the wheel when you don't have to.
 
 One recommendation is the skim the standard library for a language
 you're using. You don't have to know exactly how to use Python's
-[flw[IMAP|Internet_Message_Access_Protocol]] library, but knowing it's
-there in case you do is very valuable. At the very least, it lets you
-know that Python is a contender for choice of language if you need to do
-some IMAP work.
+[flw[IMAP|Internet_Message_Access_Protocol]] functionality, but knowing
+it's there in case you do is very valuable. At the very least, it lets
+you know that Python is a contender for choice of language if you need
+to do some IMAP work.
 
 Then when you do need some of that functionality, you can dig into the
 documentation and examples and see how it works.
@@ -112,7 +112,9 @@ to get a job done. I know the rest of what it _can_ do (because I
 skimmed the docs), but I only know bits and pieces well enough to code
 with them.
 
-And that's okay, since the libraries are massive.
+And that's okay, since the libraries are massive, and it's unlikely
+you're going to achieve mastery of everything in them. You just need to
+be able to learn what you need to complete your work.
 
 ## Learning a New Paradigm
 
@@ -158,12 +160,13 @@ concepts you might not even be aware of from the romance languages.
 > change it. And every single way I knew for modeling problems involved
 > changing variables!
 >
-> I mean, how are you supposed to get anything done if you can't change
-> a variable?!
+> I mean, how are you supposed to get _anything_ done if you can't
+> change a variable?!
 >
 > But clearly, massive systems had been implemented successfully in
 > Erlang, so there was a way. But I had to change my thinking about how
-> I modeled problems, and learning that new way was a massive challenge.
+> I modeled problems, and learning that new way was a significant
+> challenge.
 
 My main piece of advice here is to use a _lot_ of examples to see how
 that language performs basic tasks. That is, gather and study a lot of
@@ -172,7 +175,3 @@ toy programs.
 Then come up with related challenges (or find some online, or ask an AI
 to generate some) that allow you to work out to build your skills and
 find gaps in your understanding.
-
-For learning functional programming in particular, the aforementioned
-free book [flw[SICP|Structure_and_Interpretation_of_Computer_Programs]]
-is great (the Scheme variant, not the JavaScript one).

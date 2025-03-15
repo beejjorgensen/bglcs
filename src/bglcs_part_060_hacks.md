@@ -57,8 +57,8 @@ finally get around to it at 9 PM Sunday night.
 And when you do start the four-stage problem solving process, the
 material will seem less foreign and more approachable.
 
-A powerful variant of this is to complete the Understanding phase early.
-Don't need to Plan or Code It Up.
+A powerful variant of this is to complete the _Understanding_ phase
+early. Don't need to _Plan_ or _Code_ it up yet.
 
 ## The 30 Minute Rule
 
@@ -80,7 +80,7 @@ The programming problems in that book can be really challenging. But I
 gave myself a six hour time limit per problem. (I didn't do all six in a
 row, usually.) After the time was up, I looked at the answer.
 
-And here's what that does and why it's important. While you work hard on
+And here's what that does and why it's important: while you work hard on
 a problem, you're busy building a mental framework around it, trying to
 support it. And if you get the answer, great! But even if you don't,
 *you've still built that framework*.
@@ -94,7 +94,8 @@ the entire thing.
 
 Contrast that to when you just look up the answer immediately without
 building the framework. The solution has nowhere to "sit" in your brain,
-and doesn't connect to anything else.
+and doesn't connect to anything else. And it's a much bigger step to
+achieve understanding.
 
 *The struggle is vital!* Don't skip the struggle! But at the same time,
 don't keep it up forever. When you timeout, ask for help from a peer, a
@@ -105,9 +106,9 @@ tutor, an instructor, or (if allowed) an AI.
 You need to solve a problem, and look right there on the Intertubes!
 There's a solution! Time to break out the ol' `CTRL-c`/`CTRL-v` skills!
 
-It used to be that people found this solution on the programming site
-[fl[Stack Overflow|https://stackoverflow.com/]]. And commonly still do.
-But nowadays they tend to punt to some AI.
+It used to be that people frequently found this solution on the
+programming site [fl[Stack Overflow|https://stackoverflow.com/]]. And
+still do. But nowadays they tend to punt to some AI.
 
 *Beginning developers should not do this.* Remember the main goal:
 develop excellent problem-solving skills. Copy-paste coding does
@@ -138,9 +139,9 @@ out front, or on the roof.
 This frees your mind to get out of those ruts and explore new
 approaches.
 
-There have been times (working remote) where I've decided to go for a
-walk and have gotten two steps out the front door when a new approach to
-the problem has occurred to me.
+There have been times where I've decided to go for a walk and have
+gotten two steps out the door when a new approach to the problem has
+occurred to me.
 
 This method of getting unstuck is tried-and-true.
 
@@ -163,11 +164,9 @@ still help.
 
 And here's the _really_ amazing thing: they don't even have to say
 anything. The mere act of teaching someone about the problem is very
-often enough for you to find the answer on your own.
-
-Maybe it was a piece of understanding that you missed, or there's a
-non-obvious hole in your plan. Talking it through can help you find
-these things.
+often enough for you to find the answer on your own. Maybe it was a
+piece of understanding that you missed, or there's a non-obvious hole in
+your plan. Talking it through can help you find these things.
 
 One time, in a combination of going for a walk and rubber ducking, a
 coworker of mine walked up to my cube, raised his hand as if to ask a
@@ -280,10 +279,12 @@ part where you're sitting at the keyboard typing things. And even during
 the _Understand_ and _Plan_ phases it can be tempting to work alone.
 
 Joining a like-minded group of people where you can bounce around ideas
-(or even just vent) can really help your brain unstuck from ruts and get
-you to approach problems in ways you hadn't considered or been aware of.
+(or even just vent) can really help your brain get unstuck from ruts and
+help you approach problems in ways you hadn't considered or even been
+aware of.
 
 It's also good for networking, and lots of clubs have interesting
 presentations you can attend. Or even better, present at!
 
-Clubs can help the lonely fight feel a lot less lonely.
+Clubs can make the fight feel a lot less lonely. We're all in this
+together.

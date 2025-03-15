@@ -16,13 +16,13 @@ I like to think that will not happen, and that even if AI starts solving
 everything, people will still want to use their ingenuity to push the
 envelope farther than AI is able to.
 
-But what does all that mean for you as a computer science student (as of
+What does all that mean for you as a computer science student (as of
 this writing)?
 
 Let's talk about how you should use an AI as a student and at work,
 because those are two different things.
 
-Before that, let's talk about what you're _not_ supposed to do.
+But before that, let's talk about what you're _not_ supposed to do.
 
 ## How *Not* to Use AI as a Student
 
@@ -47,20 +47,21 @@ haven't learned anything. More specifically, _I haven't struggled with
 the problems_ so the learning that would come from that is lost.
 
 I think you see where this is going: just asking AI to solve the problem
-isn't going to increase your skills at all. It's like asking someone
+isn't going to increase your skills at all. It's just asking someone
 else to do the hard work.
 
 It's like I went to the gym and asked someone else to lift the weights
 for me. Sure, I can walk out saying the weights had been lifted
 successfully, but I gained nothing from the experience.
 
-Name the activity that, aside from being at the gym, involves lifting
-weights all day. Answer: there are none (generally speaking for the
-majority of the population). Then why do we spend time lifting dumbbells
-at the gym if there are zero activities that involve it?
+I want you to name an activity that, aside from being at the gym,
+involves lifting weights all day. Answer: there are none (generally
+speaking for the majority of the population). Then why do we spend time
+lifting dumbbells at the gym if there are zero other activities that
+involve it?
 
-The weights are just tools we use toward the greater goal of being
-generally stronger.
+The weights, of course, are just tools we use toward the greater goal of
+being generally stronger.
 
 *School is exactly like this*. The programming problems you get in
 school are dumbbells. They're not real. They're designed to give you a
@@ -105,18 +106,18 @@ When you're stuck on a small part of a project, ask about that. When you
 can't remember syntax, ask about that. Ask about the idiomatic way to
 write a loop that removes elements from the array it's iterating over.
 Ask about what a particular operator does or how to use it. When you
-have questions about the language or library, as those. Little
+have questions about the language or library, ask those. Little
 bite-sized pieces are fine to ask it about. It can be way faster than a
-standard Internet search!
+standard Internet search.
 
 When you've completed the project (and it works completely), then you
-can feel free to ask AI for an answer that you can use for comparison.
+can feel free to ask AI for a solution that you can use for comparison.
 Or, better still, feed your solution into the AI and ask for
 improvements.
 
 Keep in mind that some of the "improvements" aren't going to be
 improvements at all, and you'll want to ignore them. Cast that critical
-eye. [Be opinionated](#be-opinionated) and have a rationale for what
+eye. [Be opinionated](#be-opinionated) and have a rationale for which
 advice you're accepting and which you're rejecting.
 
 Lastly, there's another time it's fine to use AI to solve entire
@@ -132,14 +133,14 @@ it to get things done more quickly today. So that's my level of
 "expertise".
 
 I'd mentioned earlier that new devs solve problems with logical
-reasoning, but experts recognize patterns. As a more-experienced dev,
-you have a better understanding of which building blocks make up a
-problem. You recognize the pieces that you need, and you logically
-reason about how to assemble them.
+reasoning, but experts, in addition, recognize patterns. As a
+more-experienced dev, you have a better understanding of which building
+blocks make up a problem. You recognize the pieces that you need, and
+you logically reason about how to assemble them.
 
-In other words, experienced devs are better at Understand and Plan.
-(They're better at all phases, but recall that Understand and Plan is
-where the battle is.)
+In other words, experienced devs are better at _Understand_ and _Plan_.
+(They're better at all phases, but recall that _Understand_ and _Plan_
+is where the battle is.)
 
 As such, they can leverage AI to help them write the code for those
 building blocks. They can say things like, "I need to filter those
@@ -209,7 +210,7 @@ one where we're on equal footing.
 
 As a capitalist, though, I don't like equal footing. I want to get an
 edge on my competition. So I start thinking, "What can we do that's
-slightly different than what the AI is telling my competition?"
+slightly different than what the AI is telling my competitors?"
 
 And just like that, humans are back in the game!
 
@@ -234,7 +235,8 @@ that compilers afford.
     else.
 
 In short, I think we're going to keep pushing it, and AI will become a
-very useful tool, but only with humans at the helm. But we'll see.
+very useful tool, but only with humans at the helm. I think. We shall
+see.
 
 > _"And... Always look on the bright side of life..."_
 >

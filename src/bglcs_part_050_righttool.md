@@ -33,13 +33,13 @@ looking for.
 > He said, "Be the best diver you can be in any equipment. I don't care
 > if you're diving with a 1960s horse collar and J-valve tanks."
 
-The best developers had a lot of tools in their belt, and they know how
+The best developers have a lot of tools in their belt, and they know how
 to use them.
 
 So when you find yourself saying, "This language sucks and I hate it
 compared to that other language that I love!" consider the use cases for
 that language that you hate. Because it was created for a reason, and
-identifying it can let you know what you _should_ use it.
+identifying it can let you know when you _should_ use it.
 
 And since you're dying to know, my favorite language is Rust.
 
@@ -69,7 +69,7 @@ available.
 **You should be opinionated about the algorithms you choose.**
 Mergesort, right? Just use that. But there are actually times that lowly
 insertion sort is better! Binary search? Why use it if linear search is
-good enough for the job. Have a rationale as to *why* you chose that
+good enough for the job? Have a rationale as to *why* you chose that
 algorithm when you could have used another one.
 
 That said, you must always be willing to learn more. No matter what you
@@ -82,7 +82,7 @@ learning, and change when appropriate. This can be something as big as
 the choice of framework for the product that defines your entire
 company, or something as small as whether or not array variables are
 plural.
-
+en
 With growth, your choices will change. And, as long as you have a
 rationale behind it, that's a good thing.
 

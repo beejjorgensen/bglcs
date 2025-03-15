@@ -54,7 +54,7 @@ if they turn out to be dead-ends, you've at least learned that they are!
 >
 > —Woody, _Cheers_
 
-> _"Great. Another f\-\-\-\-\-g learning experience."_
+> _"Great. Another f\-\-\-ing learning experience."_
 >
 > —My sarcastic mother
 
