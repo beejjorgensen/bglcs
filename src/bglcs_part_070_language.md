@@ -193,4 +193,17 @@ find gaps in your understanding.
 
 [i[Programming paradigms-->Learning]>]
 
+## Chapter Reflection
+
+* Why is learning your first programming language more difficult than
+  learning the second?
+
+* What is the difference between learning syntax and learning a library?
+
+* What's the difference between a programming language and a programming
+  paradigm?
+
+* Why is learning a new paradigm commonly more difficult than learning a
+  new programming language in a paradigm you already know?
+
 [i[Programming languages-->Learning]>]

@@ -329,5 +329,31 @@ presentations you can attend. Or even better, present at!
 Clubs can make the fight feel a lot less lonely. We're all in this
 together.
 
+## Chapter Reflection
+
+* What do you (personally) do to get into _flow_?
+
+* What are the advantages to reading an assignment way before you intend
+  to work on it?
+
+* What are the disadvantages of working on a problem for too short a
+  time before asking for help?
+
+* What are the disadvantages of working on a problem too long before
+  asking for help?
+
+* When is it acceptable to use copy-paste coding? What happens if you
+  use it unacceptably?
+
+* Why is going for a walk a good idea when stuck?
+
+* How can an inanimate rubber duck be a good programming partner?
+
+* What does the author mean by _tapestry of knowledge_ and how does it
+  relate to your skill as a developer?
+
+* What do you gain by getting a code review? What do you gain by giving
+  one?
+
 [i[Clubs]>]
 [i[Hacks for learning]>]

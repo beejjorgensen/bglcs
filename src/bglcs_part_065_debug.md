@@ -274,4 +274,14 @@ pesky gremlin in your code.
 
 [i[Debuggers]>]
 
+## Chapter Reflection
+
+* What is the _mental model of computation_ and how is it important for
+  debugging?
+
+* How do you narrow down where a bug is in your code?
+
+* Contrast print debugging versus using a debugger. What do you think
+  the relative strengths and weaknesses are?
+
 [i[Debugging]>]

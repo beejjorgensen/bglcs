@@ -261,4 +261,15 @@ see.
 >
 > —Lead Singer Crucifee, _Monty Python's Life of Brian_
 
+## Chapter Reflection
+
+* Contrast the useful and non-useful ways students can use AI.
+
+* What goes wrong if you use AI badly as a student?
+
+* How do things differ with AI at work versus at school?
+
+* What are some of the hazards of using AI at work?
+
 [i[Artificial Intelligence]>]
+

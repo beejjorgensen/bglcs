@@ -504,5 +504,22 @@ with the least programming pain.
 
 ## Chapter Reflection
 
+* What are the four stages of problem solving?
+
+* Which of the stages involve sitting at the keyboard writing code?
+
+* How can you make the _Coding_ phase more difficult than it needs to
+  be?
+
+* What are the effects of an uncaught mistake made in the
+  _Understanding_ phase?
+
+* For each of the phases, how do you know when you've completed it?
+
+* What happens if you skip the _Reflect_ phase?
+
+* What does Beej mean by "think like a villain"?
+
 [i[Problem solving-->Costs]>]
+
 [i[Problem solving]>]

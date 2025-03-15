@@ -60,6 +60,17 @@ fair shake and not play favorites?
 
 Yes. But I swear this doesn't contradict that.
 
+Why be opinionated? It's because you should be deliberate and
+well-informed in the choices you make. And a good way to make that
+happen is to be opinionated with a rationale. It forces you to dig into
+the strengths and weaknesses of various technologies, and that helps you
+choose the best tool from your kit for a particular job.
+
+None of this is meant to imply that you should be a jerk about it. It's
+not about who's right or wrong—nowhere is any of this written in deific
+stone. Everyone is both right and wrong at the same time. It's very
+Schrödinger of us.
+
 **You should be opinionated about the tools that you choose.** Out of
 everything at your disposal, you chose *this* language and build system
 to use. You chose *this* editor or *that* library. You should have a
@@ -79,9 +90,14 @@ insertion sort is better! Binary search? Why use it if linear search is
 good enough for the job? Have a rationale as to *why* you chose that
 algorithm when you could have used another one.
 
-That said, you must always be willing to learn more. No matter what you
-choose with your rationale, half the Internet is going to disagree with
-you. And you know what? Your future self might even disagree with you!
+When deciding, you might be considering things like performance, or
+maybe readability of the code, or development time required, or tool
+cost, or what tech the existing codebase uses, or all kinds of other
+factors.
+
+You must always be willing to learn more. No matter what you choose with
+your rationale, half the Internet is going to disagree with you. And you
+know what? Your future self might even disagree with you!
 
 As you learn more, you will learn specific cases where some particular
 technology is best, where before you thought it wouldn't be. Be open to
@@ -95,4 +111,21 @@ rationale behind it, that's a good thing.
 
 [i[Being opinionated]>]
 
+## Chapter Reflection
+
+* Describe a typical experienced dev's position on which programming
+  language is best.
+
+* Why be opinionated about tech?
+
+* What are some factors to consider when deciding which technology is
+  the right tool for the job?
+
+* What are some factors to consider when deciding which technology is
+  the right tool for the job that aren't listed in this chapter?
+
+* Why is continuing your learning so important when choosing
+  technologies?
+
 [i[Right tool for the job]>]
+

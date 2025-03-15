@@ -211,4 +211,15 @@ work itself.
 >
 > —Fred Brooks, _The Mythical Man-Month_
 
+## Chapter Reflection
+
+* Why is breaking down a problem important?
+
+* How far do you have to break down a problem before you can start
+  coding it up?
+
+* What is pseudocode and why would we write it?
+
+* What is a proof of concept and why is it useful?
+
 [i[Breaking down problems]>]
