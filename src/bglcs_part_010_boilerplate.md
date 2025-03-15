@@ -15,11 +15,11 @@ Are you getting into Computer Science, or thinking about it? Or maybe
 you're in it already. This super-high-level guide is for you!
 
 I'm not going to talk about how to write code (much). I'll I'm going to
-talk about in these roughly 30 pages is more about _how to learn_ when
+talk about in these roughly 40 pages is more about _how to learn_ when
 you're a nascent software developer.
 
 Now, as much as I'd like to know exactly the way that everyone learns
-(and manage to wedge that into 30 pages), I, to be perfectly honest,
+(and manage to wedge that into 40 pages), I, to be perfectly honest,
 don't.
 
 What I do have is 40+ years of programming experience (self-taught
