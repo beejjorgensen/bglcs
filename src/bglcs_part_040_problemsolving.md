@@ -306,6 +306,13 @@ that makes it a great assistant for undergrad work.
 > school training (just like in gym training) is to get a workout with
 > feedback, not have someone else do the work for you.
 
+Code can be bad in a number of ways. It can be buggy. It can be
+inefficient. It can have bad formatting. And it can simply be
+unreadable. Remember that in order for your code to be maintainable, it
+needs to be easily understandable by other humans. Make it look sharp.
+The compiler might be happy with unreadable code, but humans shouldn't
+tolerate it.
+
 ***You're done with this phase never.*** Well, practically you're done
 with it when you give up and decide you've learned enough about
 improving the code. But you're probably not going to find the _Ultimate

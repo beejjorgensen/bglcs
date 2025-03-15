@@ -16,7 +16,6 @@
 - How to solve any problem
   - Understand, plan, code, reflect
 - Breaking down problems, pseudocode, proof of concept
-* Clean Code
 - Debugging
 - Right tool for the job
 - Be critical and opinionated
