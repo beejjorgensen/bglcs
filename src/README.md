@@ -2,7 +2,6 @@
 
 ## TODO
 
-* Cover all bullets
 * Chapter questions
 * Index
 
