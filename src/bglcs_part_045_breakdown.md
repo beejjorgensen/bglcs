@@ -1,5 +1,7 @@
 # Breaking Down Problems
 
+[i[Breaking down problems]<]
+
 > _"There's games beyond the game."_
 >
 > —Stringer Bell, _The Wire_
@@ -44,8 +46,9 @@ And so on. *We keep breaking down the problem until we get the step
 small enough that we know we can accomplish it.*
 
 When you're first starting out, you might have to boil the problem down
-into single lines of code. Experienced devs often don't have to break it
-down that far because they are well-versed in the sub-steps.
+into single lines of code. [i[Experts]] Experienced devs often don't
+have to break it down that far because they are well-versed in the
+sub-steps.
 
 For example, a carpenter with modest experience might only need to break
 down building a table into our second set of steps, above, and not go
@@ -68,8 +71,8 @@ Repeat.
 
 The more you practice breaking down problems and coding solutions, the
 better you'll get at it. Soon you won't have to break down problems
-quite as far as you needed to before, and, like an expert, you'll start
-recognizing patterns you can reuse.
+quite as far as you needed to before, and, like an [i[Experts]] expert,
+you'll start recognizing patterns you can reuse.
 
 However, it's not always obvious _how_ to break down a problem.
 
@@ -86,6 +89,8 @@ are), you can write an algorithm to do that exact same thing. You just
 need to break down the steps.
 
 ## Pseudocode
+
+[i[Pseudocode]<]
 
 One of the bigger tools that devs use to explore ideas is to write
 pseudocode. This is "code for humans". Computers can't read it. (Though
@@ -153,7 +158,11 @@ implement the real code under them.
 This is a powerful tool to use during the _Plan_ phase. It can really
 help solidify your thinking on the overall process.
 
+[i[Pseudocode]>]
+
 ## Proof of Concept
+
+[i[Proof of concept]<]
 
 What if you've broken down the bigger problem into smaller subproblems,
 but you simply don't know if one of the things is even possible to do.
@@ -196,6 +205,10 @@ that work. But don't worry about it. The important part of the
 proof of concept is the knowledge gained while doing the work, not the
 work itself.
 
+[i[Proof of concept]>]
+
 > _"Plan to throw one away; you will, anyhow."_
 >
 > —Fred Brooks, _The Mythical Man-Month_
+
+[i[Breaking down problems]>]

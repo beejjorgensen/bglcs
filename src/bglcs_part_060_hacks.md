@@ -1,5 +1,7 @@
 # Hacks and Techniques for Learning
 
+[i[Hacks for learning]<]
+
 There are a number of tips and tricks for maximizing your speed of
 durable learning. Devs know these help, and yet we stubbornly ignore
 them all the time.
@@ -13,6 +15,8 @@ and you might have your own path that works better.
 > electronica, or metal. Do what works for you.
 
 ## Flow
+
+[i[Flow]<]
 
 [flw[_Flow_|Flow_(psychology)]] is a mental state you get in where
 you're focused and ideas are connecting freely. There are no
@@ -34,7 +38,11 @@ Wikipedia:
 You've probably already experienced this in some aspect of your life.
 Keep in mind that it can be very beneficial for programmers.
 
+[i[Flow]>]
+
 ## Reading Ahead
+
+[i[Hacks for learning-->Reading ahead]<]
 
 I know when I was a student, if something was due on Sunday, I'd
 commonly read about it for the first time on Sunday. Anyone else do
@@ -60,7 +68,11 @@ material will seem less foreign and more approachable.
 A powerful variant of this is to complete the _Understanding_ phase
 early. Don't need to _Plan_ or _Code_ it up yet.
 
+[i[Hacks for learning-->Reading ahead]>]
+
 ## The 30 Minute Rule
+
+[i[Hacks for learning-->30 minute rule]<]
 
 If you've been stuck for 30 minutes and you've **really** tried to
 attack the problem from a variety of directions and have still come up
@@ -71,19 +83,19 @@ minutes is a good balance between working hard and bring productive with
 the limited time you have for schoolwork.
 
 Here's a story. One of my favorite books for learning about programming
-is called [flw[_The Structure and Interpretation of Computer
+is called [i[SICP]] [flw[_The Structure and Interpretation of Computer
 Programs_|Structure_and_Interpretation_of_Computer_Programs]], or SICP
 for short. (I particularly like the Scheme version—really helps you
-learn recursion.)
+learn [i[Recursion]] recursion.)
 
 The programming problems in that book can be really challenging. But I
 gave myself a six hour time limit per problem. (I didn't do all six in a
 row, usually.) After the time was up, I looked at the answer.
 
 And here's what that does and why it's important: while you work hard on
-a problem, you're busy building a mental framework around it, trying to
-support it. And if you get the answer, great! But even if you don't,
-*you've still built that framework*.
+a problem, you're busy building a [i[Mental framework]] mental framework
+around it, trying to support it. And if you get the answer, great! But
+even if you don't, *you've still built that framework*.
 
 So when you give up after your time limit, very often the solution you
 read fits neatly into the framework you've already built. It's just a
@@ -101,7 +113,11 @@ achieve understanding.
 don't keep it up forever. When you timeout, ask for help from a peer, a
 tutor, an instructor, or (if allowed) an AI.
 
+[i[Hacks for learning-->30 minute rule]>]
+
 ## No Copy-Paste Coding
+
+[i[Copy-paste coding]<]
 
 You need to solve a problem, and look right there on the Intertubes!
 There's a solution! Time to break out the ol' `CTRL-c`/`CTRL-v` skills!
@@ -119,7 +135,11 @@ for some time, as mentioned in the _30 Minute Rule_ section, above. But
 even then, you **must** understand the code you're copying 100%
 completely before using it.
 
+[i[Copy-paste coding]>]
+
 ## Go for a Walk
+
+[i[Hacks for learning-->Ambulation]<]
 
 Yes, I'm serious. You're stuck, and nothing seems to be working, and no
 additional plans of attack are coming to mind. What do you do?
@@ -145,7 +165,11 @@ occurred to me.
 
 This method of getting unstuck is tried-and-true.
 
+[i[Hacks for learning-->Ambulation]>]
+
 ## Rubber Duck
+
+[i[Rubber ducking]<]
 
 Talk to someone about the issue. This is such an effective technique
 that it even works if you're talking to an inanimate rubber duck, giving
@@ -173,7 +197,11 @@ coworker of mine walked up to my cube, raised his hand as if to ask a
 question, paused a beat, then said, "Never mind, I figured it out." That
 was all it took.
 
+[i[Rubber ducking]>]
+
 ## Write Down Questions
+
+[i[Hacks for learning-->Tracking questions]<]
 
 When poring over a problem description or learning a tool or language,
 there are basically two kinds of questions that crop up.
@@ -199,7 +227,11 @@ Coming back and getting the questions answered later can help build a
 more complete picture of the systems you're working with and make you a
 more effective developer.
 
+[i[Hacks for learning-->Tracking questions]>]
+
 ## Build a Tapestry of Knowledge
+
+[i[Tapestry of knowledge]<]
 
 This is where it all comes together.
 
@@ -235,9 +267,9 @@ reminds me of problem _y_. Maybe I can solve it in a similar way."
 Beginning developers solve programming problems through sheer logic and
 reasoning.
 
-Experienced devs also use logic and reasoning, but they primarily rely
-heavily on pattern matching. What coding pattern do I know that best
-solves the type of problem that I'm currently facing?
+[i[Experts]] Experienced devs also use logic and reasoning, but they
+primarily rely heavily on pattern matching. What coding pattern do I
+know that best solves the type of problem that I'm currently facing?
 
 In short, they rely on their interconnected tapestry of knowledge
 they've built up over their years of programming.
@@ -246,7 +278,11 @@ As you learn to code, look for ways that the thing you're learning about
 now connects to the rest of the programming world you've already
 explored. Make those connections so you can exploit them later.
 
+[i[Tapestry of knowledge]>]
+
 ## Get and Give Code Reviews
+
+[i[Code reviews]<]
 
 It can be really hard to put your code out there and ask someone to give
 you advice on how to make it better. It's easy to take that advice
@@ -272,7 +308,11 @@ But remember to always [be opinionated](#be-opinionated) about the
 feedback you get, and use critical judgment when deciding whether or not
 to incorporate it.
 
+[i[Code reviews]>]
+
 ## Join a Club
+
+[i[Clubs]<]
 
 Coding has historically and generally been a solo endeavor—at least the
 part where you're sitting at the keyboard typing things. And even during
@@ -288,3 +328,6 @@ presentations you can attend. Or even better, present at!
 
 Clubs can make the fight feel a lot less lonely. We're all in this
 together.
+
+[i[Clubs]>]
+[i[Hacks for learning]>]

@@ -1,15 +1,19 @@
 # Problem Solving
 
-This is an idea completely stolen from the book [flw[_How to Solve
-It_|How_to_Solve_It]] by George Pólya. It's a book about attacking math
-problems. And since computer science is just math under the hood, it
-completely applies!
+[i[Problem solving]<]
+
+This is an idea completely stolen from the book [i[How to Solve It
+book]] [flw[_How to Solve It_|How_to_Solve_It]] by George Pólya. It's a
+book about attacking math problems. And since computer science is just
+math under the hood, it completely applies!
 
 Actually it doesn't completely apply, and I just said that because it
 sounded so good. But it can be bent into shape pretty easily. And I
 recommend reading the book.
 
 So what is it? It's short and pretty easy to memorize:
+
+[i[Problem solving-->Steps]]
 
 1. **Understand** the problem
 2. **Plan** how you're going to solve it
@@ -67,6 +71,8 @@ thrown at you.[^b374]
 Let's explore the steps.
 
 ## Understanding the Problem
+
+[i[Problem solving-->Understanding phase]<]
 
 Everyone, students included, loves to skip the _Understanding_ step.
 Wise instructors will add a quiz to be turned in before coding starts
@@ -152,7 +158,11 @@ Because of this, you'll very likely have to ask clarifying questions.
 > could have caught it earlier with more careful examination of the
 > spec.
 
+[i[Problem solving-->Understanding phase]>]
+
 ## Coming Up with a Plan
+
+[i[Problem solving-->Planning phase]<]
 
 > _"Programming is the art of telling another human being what one wants
 > the computer to do."_
@@ -173,12 +183,13 @@ someone. Or at least you *think* you do. You might learn more later. But
 understanding the problem isn't the same as knowing how to solve it.
 
 If the problem is really simple and familiar, you might come up with a
-plan almost instantly. Experienced devs faced with familiar tasks don't
-need to spend long planning once they've fully understood the problem.
+plan almost instantly. [i[Experts]] Experienced devs faced with familiar
+tasks don't need to spend long planning once they've fully understood
+the problem.
 
-But experienced devs faced with unfamiliar tasks *do* need to spend
-time at it. It doesn't matter how good you are—if you haven't seen the
-problem, you're going to need to plan the solution.
+But [i[Experts]] experienced devs faced with unfamiliar tasks *do* need
+to spend time at it. It doesn't matter how good you are—if you haven't
+seen the problem, you're going to need to plan the solution.
 
 Literal pencil and paper can be useful for this step. Here are some
 things to think about.
@@ -216,8 +227,8 @@ the _Understanding_ phase to get clarity, then jump back to planning.
 
 ***You know you're done with planning when you can simulate the run on
 paper and in your head and you're confident it works. And you can write
-high-level pseudocode.*** Bounce your plan off a few rubber ducks[^c2a3]
-to see if it holds water.
+high-level pseudocode.*** Bounce your plan off a few [i[Rubber ducking]]
+rubber ducks[^c2a3] to see if it holds water.
 
 [^c2a3]: _Rubber ducking_ is sharing ideas with a literal or proxy
     rubber duck, where the proxy might actually be a person. It helps
@@ -225,7 +236,11 @@ to see if it holds water.
     Also, the Ducks are University of Oregon's football team, Oregon
     State's longtime rivals. Boo Ducks!
 
+[i[Problem solving-->Planning phase]>]
+
 ## Coding Up a Solution
+
+[i[Problem solving-->Coding phase]<]
 
 This is the easy part! You have to translate your pseudocode plans into
 code.
@@ -272,7 +287,11 @@ to fix it, and maybe back to the understanding phase, if required.
 ***You're done with this phase when the code works and passes all your
 tests.***
 
+[i[Problem solving-->Coding phase]>]
+
 ## Reflect on Improvements
+
+[i[Problem solving-->Reflection phase]<]
 
 > "Coding is a craft. Take pride in your work."
 >
@@ -324,11 +343,15 @@ where you can effectively build your stats with relatively low effort.
 And it's your loss if you don't spend just a few minutes after a project
 to take advantage of it.
 
-At work, this takes the form of a _post-mortem_, where the people
-involved in the completed project look back and study what went right
-and wrong.
+At work, this takes the form of a [i[Post-mortem]] _post-mortem_, where
+the people involved in the completed project look back and study what
+went right and wrong.
+
+[i[Problem solving-->Reflection phase]>]
 
 ## Think Like a Villain
+
+[i[Villains]<]
 
 When solving problems, I want you to think like a villain; that is,
 think like someone who is going to abuse the system that you're
@@ -364,7 +387,11 @@ Thinking like a villain can not only catch problems you might not have
 otherwise considered, but it will lead you to a deeper understanding of
 the project that will produce more durable and maintainable code.
 
+[i[Villains]>]
+
 ## Use in Interviews
+
+[i[Interviewing]<]
 
 The four-step process from this chapter is exactly what you should use
 on interview coding challenges.
@@ -404,11 +431,11 @@ kick back into gear and automatically start thinking up strategies for
 solving the problem... and that's step two of the problem-solving
 framework! You're already on your way.
 
-Try to think (you villain) of anything ambiguous in the problem
-description. Ask questions to clarify those things. What are the limits
-on the input? What are the limits on output? What do you do in error
-conditions? Maybe suggest an example input and output and verify that
-you have it right with the interviewer.
+Try to think (you [i[Villains]] villain) of anything ambiguous in the
+problem description. Ask questions to clarify those things. What are the
+limits on the input? What are the limits on output? What do you do in
+error conditions? Maybe suggest an example input and output and verify
+that you have it right with the interviewer.
 
 This tells the interviewer that you give attention to detail, an
 important trait to have. And it also tells them you start a project by
@@ -433,7 +460,11 @@ the final reflect step! What would you do better? How could the solution
 be improved? What features could be added in the future? Interviewers
 love that stuff, and you love keeping interviewers happy, right?
 
+[i[Interviewing]>]
+
 ## Cost per Phase
+
+[i[Problem solving-->Costs]<]
 
 One note related to the problem-solving framework is that *the cost of
 changes to the software increases exponentially the farther you are in
@@ -471,3 +502,5 @@ _Plan_ where changes are cheap *in terms of time*. This will get you the
 best results quickly and efficiently (and hopefully by the due date)
 with the least programming pain.
 
+[i[Problem solving-->Costs]>]
+[i[Problem solving]>]

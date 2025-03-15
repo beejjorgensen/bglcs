@@ -1,5 +1,7 @@
 # Use of AI
 
+[i[Artificial Intelligence]<]
+
 As of this writing in 2025, AI is the new hotness[^0D45]. Everyone is
 using it, and no one can stop talking about it.
 
@@ -26,7 +28,9 @@ But before that, let's talk about what you're _not_ supposed to do.
 
 ## How *Not* to Use AI as a Student
 
-I've mentioned elsewhere that I like to study the book
+[i[Artificial Intelligence-->Student non-usage]<]
+
+I've mentioned elsewhere that I like to study the book [i[SICP]]
 [flw[SICP|Structure_and_Interpretation_of_Computer_Programs]] to improve
 my skills. And how I give myself a six-hour time limit to solve the
 problems presented.
@@ -91,7 +95,11 @@ programming project. It probably can do that, but you'll learn nothing.
 The goal of the project is not to complete the problem; it's to get a
 workout while you complete it.
 
+[i[Artificial Intelligence-->Student non-usage]>]
+
 ## How to Use AI as a Student
+
+[i[Artificial Intelligence-->Student usage]<]
 
 First things first: if your school or instructor has banned AI, that's
 the rule. And you have to ignore what I've written here. Sorry. I'm
@@ -125,7 +133,11 @@ projects: when your instructor says you can. This happens when they're
 giving you more real-world practice as opposed to lifting weights. Both
 are valuable uses of your study time.
 
+[i[Artificial Intelligence-->Student usage]>]
+
 ## How to Use AI at Work
+
+[i[Artificial Intelligence-->Work usage]<]
 
 First, a caveat: the last time I was working in production (and I did so
 for 20 years), AI as we know it today did not exist. That said, I do use
@@ -133,10 +145,10 @@ it to get things done more quickly today. So that's my level of
 "expertise".
 
 I'd mentioned earlier that new devs solve problems with logical
-reasoning, but experts, in addition, recognize patterns. As a
-more-experienced dev, you have a better understanding of which building
-blocks make up a problem. You recognize the pieces that you need, and
-you logically reason about how to assemble them.
+reasoning, but [i[Experts]] experts, in addition, recognize patterns. As
+a more-experienced dev, you have a better understanding of which
+building blocks make up a problem. You recognize the pieces that you
+need, and you logically reason about how to assemble them.
 
 In other words, experienced devs are better at _Understand_ and _Plan_.
 (They're better at all phases, but recall that _Understand_ and _Plan_
@@ -163,15 +175,20 @@ and rapid prototyping where the code is often throwaway.
 > —Satipo and Indiana Jones, _Raiders of the Lost Ark_
 
 Again, as a student, you can't bring that experience (that you haven't
-yet acquired) to bear, and if you just try to use AI like a seasoned
-dev, you're going to have buggy, fragile code that you don't know how to
-fix. And worst of all, you won't be developing the skills you need.
+yet acquired) to bear, and if you just try to use AI like a [i[Experts]]
+seasoned dev, you're going to have buggy, fragile code that you don't
+know how to fix. And worst of all, you won't be developing the skills
+you need.
 
 But as you gather more experience, you can definitely rely on AI to
 write a large amount of boilerplate code for you that you already know
 the logic behind, anyway.
 
+[i[Artificial Intelligence-->Work usage]>]
+
 ## AI and the Jobs Market
+
+[i[Artificial Intelligence-->Job market effects]<]
 
 When you read this, I want you to know that I, the author, thought
 [fl[Yahoo!|https://www.yahoo.com/]] was a dumb idea when it first
@@ -238,6 +255,10 @@ In short, I think we're going to keep pushing it, and AI will become a
 very useful tool, but only with humans at the helm. I think. We shall
 see.
 
+[i[Artificial Intelligence-->Job market effects]>]
+
 > _"And... Always look on the bright side of life..."_
 >
 > —Lead Singer Crucifee, _Monty Python's Life of Brian_
+
+[i[Artificial Intelligence]>]

@@ -1,5 +1,7 @@
 # Learning a New Language
 
+[i[Programming languages-->Learning]<]
+
 The first language you learn is the hardest. Not only are you learning
 the language, but you're also learning the _concepts_ that are used
 within the language. By concepts, I mean things like how to organize
@@ -18,6 +20,8 @@ your first one. This is important because you're going to be learning
 new languages your entire career. Luckily, though, learning new
 languages it itself a skill, and the more new languages you learn, the
 easier it becomes.
+
+[i[Programming paradigms]]
 
 There are two big pieces to learning a new language in a paradigm
 you already know (procedural, object-oriented, functional, etc.)
@@ -42,6 +46,8 @@ of built-in functionality. [fl[Scroll through the Python standard
 library for an example|https://docs.python.org/3/library/index.html]].
 
 ## Learning the Syntax
+
+[i[Programming languages-->Syntax]<]
 
 Jump right in! Follow a tutorial and write "toy" programs. These are
 programs that just exercise some aspect of the language.
@@ -86,7 +92,11 @@ look up all those Italian words if you don't know Italian.
 The good news is that the syntax of a computer language is *way* simpler
 than a human language. And you can get it down pretty quickly.
 
+[i[Programming languages-->Syntax]>]
+
 ## Learning the Library
+
+[i[Programming languages-->Libraries]<]
 
 The standard library is the pre-baked functionality that ships with a
 language. It's nice because you know everyone who has the language
@@ -116,7 +126,11 @@ And that's okay, since the libraries are massive, and it's unlikely
 you're going to achieve mastery of everything in them. You just need to
 be able to learn what you need to complete your work.
 
+[i[Programming languages-->Libraries]>]
+
 ## Learning a New Paradigm
+
+[i[Programming paradigms-->Learning]<]
 
 First, what is a _programming paradigm_? It's a way of modeling a
 problem so that you can come up with a solution. I know that's vague but
@@ -153,8 +167,9 @@ Chinese, that's something else! Not nearly as easy. Keeping with the
 analogy, it's a different paradigm. You have to learn new techniques and
 concepts you might not even be aware of from the romance languages.
 
-> **I learned Erlang a while ago**. [fl[Erlang|https://www.erlang.org/]]
-> is a functional language, and I was weak with the functional paradigm.
+> **I learned [i[Erlang]] Erlang a while ago**.
+> [fl[Erlang|https://www.erlang.org/]] is a functional language, and I
+> was weak with the functional paradigm.
 >
 > For example, in Erlang, once you set a "variable", you can never
 > change it. And every single way I knew for modeling problems involved
@@ -175,3 +190,7 @@ toy programs.
 Then come up with related challenges (or find some online, or ask an AI
 to generate some) that allow you to work out to build your skills and
 find gaps in your understanding.
+
+[i[Programming paradigms-->Learning]>]
+
+[i[Programming languages-->Learning]>]

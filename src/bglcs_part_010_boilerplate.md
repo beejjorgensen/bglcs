@@ -9,6 +9,7 @@
 <!-- Index see alsos -->
 <!--
 [is[Git Log==>see Log]]
+[is[Recursion==>see Recursion]]
 -->
 
 Are you getting into Computer Science, or thinking about it? Or maybe
@@ -48,6 +49,8 @@ But give it a read and take what's useful and leave the rest for the
 
 ## Audience
 
+[i[Audience]]
+
 Undergrad students just getting into programming are the people I had in
 mind while writing this. So give-or-take a bit around that target
 audience. People in high school or just looking to learn how to program
@@ -55,11 +58,15 @@ are also probably out there in the audience, as well.
 
 ## Official Homepage
 
+[i[Home page]]
+
 This official location of this document is:
 
 [fl[`https://beej.us/guide/bglcs/`|https://beej.us/guide/bglcs/]].
 
 ## Corrections
+
+[i[Corrections to the Guide]]
 
 I make these guides available for free in the sincere hope that people
 will find them maximally useful. If there's something that's not
@@ -73,6 +80,8 @@ can fix it in furtherance of my mission.
 Thank you!
 
 ## Email Policy
+
+[i[Emailing Beej]]
 
 I'm generally available to help out with email questions so feel free to
 write in, but I can't guarantee a response. I lead a pretty busy life
@@ -99,6 +108,8 @@ me to hear that it is being used for good! `:-)` Thank you!
 
 ## Mirroring
 
+[i[Mirroring]]
+
 You are more than welcome to mirror this site, whether publicly or
 privately. If you publicly mirror the site and want me to link to it
 from the main page, drop me a line at
@@ -106,7 +117,8 @@ from the main page, drop me a line at
 
 ## Note for Translators
 
-[i[Translations]<]
+[i[Translations]]
+
 If you want to translate the guide into another language, write me at
 [`beej@beej.us`](mailto:beej@beej.us) and I'll link to your translation
 from the main page. Feel free to add your name and contact info to the
@@ -114,9 +126,10 @@ translation.
 
 Please note the license restrictions in the Copyright and Distribution
 section, below.
-[i[Translations]>]
 
 ## Copyright and Distribution
+
+[i[Distributing the Guide]]
 
 Beej's Guide to Learning Computer Science is Copyright © 2025 Brian
 "Beej Jorgensen" Hall.

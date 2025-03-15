@@ -1,5 +1,7 @@
 # Debugging
 
+[i[Debugging]<]
+
 Before we begin, the best way to debug a program is to not have bugs to
 begin with. Though we're only human and we'll certainly mak mstakes,
 <!-- sic --> the best way to avoid bugs is to adhere to the problem
@@ -10,6 +12,8 @@ complete those phases, the fewer bugs you'll have when coding it up.
 That said, let's talk about what to do when the inevitable happens.
 
 ## Mental Model
+
+[i[Mental model of computation]<]
 
 This is one of the most important things about being a developer: *have
 a mental model of computation*.
@@ -68,7 +72,11 @@ How do your improve your mental model of computation?
 
 You'll definitely improve this skill with practice.
 
+[i[Mental model of computation]>]
+
 ## Finding the Bug
+
+[i[Debugging-->Locating bugs]<]
 
 There is a bug somewhere. You know that because when you give your code
 some input, and it cranks away at it, eventually it gives you unexpected
@@ -119,7 +127,11 @@ program was giving the output `299792458` instead of the expected
 Once you understand how the wrong output was produced, then decisively
 and correctly fix the issue, and know why the fix will work.
 
+[i[Debugging-->Locating bugs]>]
+
 ## Print Debugging
+
+[i[Debugging-->By printing]<]
 
 The good old-fashioned standard way of probing software in the middle of
 a run is called _print debugging_, or, if you're a C programmer, _printf
@@ -210,7 +222,11 @@ up in an editor to search.
 And, finally, don't forget to remove all your print statements before
 you ship your work!
 
+[i[Debugging-->By printing]>]
+
 ## Debuggers
+
+[i[Debuggers]<]
 
 Debuggers are tools that help you find bugs. There are many different
 debuggers, but virtually all of them share a common set of features. The
@@ -235,10 +251,10 @@ forward through your program, they allow you to step backward, as well!
 This is great if you step past the bug by accident and want to step back
 to see it.
 
-All major IDEs have debugger functionality. (It's part of what's
-"integrated", the "I" in "IDE".) There are also standalone debuggers
-that you can run. And all mainstream languages have some kind of
-debugger support.
+All major [flw[IDEs|Integrated_development_environment]] have debugger
+functionality. (It's part of what's "integrated", the "I" in "IDE".)
+There are also standalone debuggers that you can run. And all mainstream
+languages have some kind of debugger support.
 
 As you might imagine, with those features, debuggers are really
 powerful.
@@ -256,3 +272,6 @@ In any case, learning to use a debugger is a valuable skill that can
 save you massive amounts of time while you're trying to track down that
 pesky gremlin in your code.
 
+[i[Debuggers]>]
+
+[i[Debugging]>]

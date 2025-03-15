@@ -1,5 +1,7 @@
 # The Main Goal
 
+[i[Main goal]<]
+
 > _"Education is not preparation for life; education is life itself."_
 >
 > —John "Not The Decimal System One" Dewey
@@ -84,3 +86,4 @@ deprives you of that practice. Cheat your way through all the
 assignments at school and you'll never develop the one fundamental skill
 of software developers: being able to solve any programming problem.
 
+[i[Main goal]>]

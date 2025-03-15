@@ -1,5 +1,9 @@
 # Right Tool for the Job
 
+[i[Right tool for the job]<]
+
+[i[Programming languages-->Best]]
+
 "What's the best programming language?"
 
 It's a common question from people getting started in programming. And
@@ -25,8 +29,9 @@ not familiar with the table saw and I don't really like it, so I'm going
 to use this hammer to cut that plywood" is not the solution your boss is
 looking for.
 
-> **My scuba instructor had some advice for me.** I was looking at
-> buying some kit and was deciding between standard fare and
+> [i[Scuba diving]] **My scuba instructor had some advice for me.** I
+> was looking at buying some kit and was deciding between standard fare
+> and
 > [flw[DIR|https://en.wikipedia.org/wiki/Doing_It_Right_(scuba_diving)]]-style
 > equipment.
 >
@@ -47,6 +52,8 @@ Or Python. Or C. Or JavaScript. Or SQL. Or AWK. Or Bash. Or... well, it
 just depends on what problem I'm solving!
 
 ## Be Opinionated {#be-opinionated}
+
+[i[Being opinionated]<]
 
 Didn't I just finish telling you that you should give all languages a
 fair shake and not play favorites?
@@ -82,7 +89,10 @@ learning, and change when appropriate. This can be something as big as
 the choice of framework for the product that defines your entire
 company, or something as small as whether or not array variables are
 plural.
-en
+
 With growth, your choices will change. And, as long as you have a
 rationale behind it, that's a good thing.
 
+[i[Being opinionated]>]
+
+[i[Right tool for the job]>]

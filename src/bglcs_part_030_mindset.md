@@ -1,5 +1,7 @@
 # Growth Mindset
 
+[i[Growth mindset]<]
+
 This is a tough one for me, personally. I don't like failing at things,
 even if no one can see me doing it, and especially when people do. It
 knots my stomach and then I say all kinds of bad things to myself that I
@@ -29,10 +31,10 @@ It's the opposite of what I tend to do when I lose my bazillionth game
 of [flw[Go|Go_(game)]]. How could I have made so many stupid mistakes?
 I'll never be good at this!
 
-But that's what Dweck would refer to as a _fixed mindset_. It's my
-mistaken belief that no matter how much I play the game, I'm up against
-my own intrinsic limitations that I'll never get past no matter if I
-study for 500,000 hours!
+But that's what Dweck would refer to as a [i[Fixed mindset]] _fixed
+mindset_. It's my mistaken belief that no matter how much I play the
+game, I'm up against my own intrinsic limitations that I'll never get
+past no matter if I study for 500,000 hours!
 
 And when I put it that way, it's kinda silly. No one can spend 500,000
 hours doing *anything* without getting better at it.
@@ -62,6 +64,8 @@ Every success is a learning experience. Every failure is a learning
 experience. Every learning experience improves your skills.
 
 ## Tenacity
+
+[i[Tenacity]<]
 
 > _"The master has failed more times than the beginner has even tried."_
 >
@@ -107,6 +111,8 @@ have to work really hard to learn this stuff.
 
 *Relentless tenacity* is one of the prime qualities of the top coders of
 the world.
+
+[i[Tenacity]>]
 
 ## You Gotta Want It
 
@@ -173,8 +179,8 @@ But it's this hard for everyone. You're not blessed with a special lack
 of ability to learn computer science. You just have to keep hammering
 away just like everyone else.
 
-You wouldn't doubt that juggling 11 balls at once is difficult for
-everyone, would you? [fl[And yet, people can do
+You wouldn't doubt that [i[Juggling]] juggling 11 balls at once is
+difficult for everyone, would you? [fl[And yet, people can do
 it|https://www.youtube.com/watch?v=cJsgM-3L38U]].
 
 > _"You know how to get to Carnegie Hall?"_\
@@ -200,3 +206,5 @@ it gets easier. The feeling of hanging on by your fingernails does start
 to abate. And—I know this might be hard to believe now—eventually the
 job might actually get so easy as to be boring. And then you'll look for
 another one with new, exciting challenges to tackle.
+
+[i[Growth mindset]>]
