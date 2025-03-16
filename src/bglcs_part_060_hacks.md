@@ -70,6 +70,28 @@ early. Don't need to _Plan_ or _Code_ it up yet.
 
 [i[Hacks for learning-->Reading ahead]>]
 
+## No Copy-Paste Coding
+
+[i[Copy-paste coding]<]
+
+You need to solve a problem, and look right there on the Intertubes!
+There's a solution! Time to break out the ol' `CTRL-c`/`CTRL-v` skills!
+
+It used to be that people frequently found this solution on the
+programming site [fl[Stack Overflow|https://stackoverflow.com/]]. And
+still do. But nowadays they tend to punt to some AI.
+
+*Beginning developers should not do this.* Remember the main goal:
+develop excellent problem-solving skills. Copy-paste coding does
+**nothing** to further this goal.
+
+One exception to this rule is if you already struggled with the problem
+for some time, as mentioned in the _30 Minute Rule_ section, above. But
+even then, you **must** understand the code you're copying 100%
+completely before using it.
+
+[i[Copy-paste coding]>]
+
 ## The 30 Minute Rule
 
 [i[Hacks for learning-->30 minute rule]<]
@@ -113,29 +135,9 @@ achieve understanding.
 don't keep it up forever. When you timeout, ask for help from a peer, a
 tutor, an instructor, or (if allowed) an AI.
 
+Also, maybe follow this up with going for a walk.
+
 [i[Hacks for learning-->30 minute rule]>]
-
-## No Copy-Paste Coding
-
-[i[Copy-paste coding]<]
-
-You need to solve a problem, and look right there on the Intertubes!
-There's a solution! Time to break out the ol' `CTRL-c`/`CTRL-v` skills!
-
-It used to be that people frequently found this solution on the
-programming site [fl[Stack Overflow|https://stackoverflow.com/]]. And
-still do. But nowadays they tend to punt to some AI.
-
-*Beginning developers should not do this.* Remember the main goal:
-develop excellent problem-solving skills. Copy-paste coding does
-**nothing** to further this goal.
-
-One exception to this rule is if you already struggled with the problem
-for some time, as mentioned in the _30 Minute Rule_ section, above. But
-even then, you **must** understand the code you're copying 100%
-completely before using it.
-
-[i[Copy-paste coding]>]
 
 ## Go for a Walk
 
