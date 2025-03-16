@@ -74,6 +74,56 @@ You'll definitely improve this skill with practice.
 
 [i[Mental model of computation]>]
 
+## Reproducing the Bug
+
+[i[Debugging-->Reproducing bugs]<]
+
+First things first: see if you can get the bug to happen consistently.
+Being able reproduce ("repro") the bug is the first step in being able
+to squash it.
+
+Sometimes this is actually the hard part. You saw something go wrong
+once (or someone reported they saw it), and now you can't repro it.
+
+> **At this point you might be tempted to utilize a programming
+> technique known as "prayer"** in that you're praying that either you
+> didn't really see it or the bug will never rear its ugly face again in
+> this world. But here's the unfortunate truth: if someone saw this rare
+> bug _just once_ in testing, thousands or millions of people will see
+> the bug when it goes into production. Murphy's Law _and_ statistics?
+> You have no chance against that.
+
+If you can't repro it, you'd just be shooting in the dark trying to fix
+it. Your goal at this point is to just get it to happen at all. Work
+backward logically. What _must_ have happened in the program flow in
+order to see what the bug reporter saw? Look there first. Even if you're
+sure some condition _can't possibly_ be true, if it must have been true
+to see the bug, then it _must_ have been true! Keep tracking back,
+looking for where your mental model and the code diverge and use that to
+repro it yourself.
+
+If you can only sporadically repro it, you have a chance, but it's going
+to be hard work. Your goal is to get it to repro consistently. This
+saves you spending forever trying to get a rare repo. If you could make
+it happen consistently, that's a big time saver, and it helps you narrow
+down where the bug can be.
+
+Once you find how to repro it consistently, now you can get even more
+systematic about things. You want to find the minimum number of steps
+that can cause the bug to manifest. For example, you're playing a game
+and you find a bug when you complete 20 laps around the race course and
+then drive into a tree. Maybe try just driving into the tree first. If
+you're lucky, you saved yourself 20 laps and narrowed the bug down to
+the tree. If nothing happens, you know that the 20 laps is an integral
+part of the bug. Maybe try a single lap followed by the tree. Does that
+repro?
+
+Getting the minimum number of steps not only helps you narrow down even
+further where the bug is in the code, but it makes it easier to test
+fixes because you don't have to spend so long reproing the issue.
+
+[i[Debugging-->Reproducing bugs]>]
+
 ## Finding the Bug
 
 [i[Debugging-->Locating bugs]<]
@@ -126,6 +176,14 @@ program was giving the output `299792458` instead of the expected
 
 Once you understand how the wrong output was produced, then decisively
 and correctly fix the issue, and know why the fix will work.
+
+Finally, if you're just filing a bug report (i.e. someone else will fix
+it), being able to give them the minimum steps needed to repro will make
+you their hero for the day. Consider it from the reverse perspective;
+would you rather fix a bug with a vague, long sequence of steps to
+repro, or one with a few steps that caused it to repro every time? The
+more specific things are, the happier the bug-fixer is, whether that's
+you or someone else.
 
 [i[Debugging-->Locating bugs]>]
 
@@ -278,6 +336,9 @@ pesky gremlin in your code.
 
 * What is the _mental model of computation_ and how is it important for
   debugging?
+
+* Why is finding a bug's minimum reproduction case an important step in
+  fixing that bug?
 
 * How do you narrow down where a bug is in your code?
 
