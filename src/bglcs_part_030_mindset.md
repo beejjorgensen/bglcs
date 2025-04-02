@@ -217,7 +217,7 @@ another one with new, exciting challenges to tackle.
 
 * Why is _tenacity_ an important quality for devs to possess?
 
-* What is main the difference between an instructor who makes something
+* What is the main difference between an instructor who makes something
   look easy and a student who is struggling hard with the same material?
   What does the student have to do to also make things look easy?
 
