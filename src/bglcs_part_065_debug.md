@@ -259,6 +259,10 @@ There are a couple common uses of this:
 > <!-- ` --> Not only does it stand out nice and clear on the screen,
 > but it's really easy to type in frustration and helps dispel some of
 > my bad energy. And if the client sees it, it's a minor transgression.
+>
+> Another friend of mine suggested printing various non-offensive
+> emojis, as well, which seems like a fun way to diffuse ones
+> frustration.
 
 Now, print debugging is kinda frowned upon as a lesser means of
 debugging compared to using a real debugger (as in the following
