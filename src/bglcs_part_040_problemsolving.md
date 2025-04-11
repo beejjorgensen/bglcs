@@ -256,7 +256,7 @@ will work. Maybe even on the first try, if you're very lucky[^b1f5].
 If you _didn't_ understand the problem and didn't come up with a plan,
 then this is not the easy part. You will see no end to trouble, and
 might fail to complete the project. _That's_ how important understanding
-an planning is!
+and planning is!
 
 Of course, we're only human and we'll mistype things and make dumb
 errors, but that's *way* easier to debug than if you have a bad plan, or
