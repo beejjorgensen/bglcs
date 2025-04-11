@@ -31,9 +31,7 @@ looking for.
 
 > [i[Scuba diving]] **My scuba instructor had some advice for me.** I
 > was looking at buying some kit and was deciding between standard fare
-> and
-> [flw[DIR|https://en.wikipedia.org/wiki/Doing_It_Right_(scuba_diving)]]-style
-> equipment.
+> and > [flw[DIR|Doing_It_Right_(scuba_diving)]]-style equipment.
 >
 > He said, "Be the best diver you can be in any equipment. I don't care
 > if you're diving with a 1960s horse collar and J-valve tanks."

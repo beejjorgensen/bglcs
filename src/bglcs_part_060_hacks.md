@@ -86,7 +86,7 @@ develop excellent problem-solving skills. Copy-paste coding does
 **nothing** to further this goal.
 
 One exception to this rule is if you already struggled with the problem
-for some time, as mentioned in the _30 Minute Rule_ section, above. But
+for some time, as mentioned in the _30 Minute Rule_ section, below. But
 even then, you **must** understand the code you're copying 100%
 completely before using it.
 
