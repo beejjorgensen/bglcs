@@ -54,8 +54,8 @@ I think you see where this is going: just asking AI to solve the problem
 isn't going to increase your skills at all. It's just asking someone
 else to do the hard work.
 
-It's like I went to the gym and asked someone else to lift the weights
-for me. Sure, I can walk out saying the weights had been lifted
+It's like I went to the gym and asked my robot to lift the weights for
+me. Sure, I can walk out saying the weights had been lifted
 successfully, but I gained nothing from the experience.
 
 I want you to name an activity that, aside from being at the gym,
@@ -118,9 +118,15 @@ have questions about the language or library, ask those. Little
 bite-sized pieces are fine to ask it about. It can be way faster than a
 standard Internet search.
 
-When you've completed the project (and it works completely), then you
-can feel free to ask AI for a solution that you can use for comparison.
-Or, better still, feed your solution into the AI and ask for
+Another place I've seen AI do a decent job is with hints. You can drop
+in a functions-worth of code and tell the AI, "Something is wrong with
+this [describe the issue]. But don't tell me the answer and don't give
+me the corrected code. Just give me hints about how I need to think
+about the problem to find the solution on my own."
+
+And when you've completed the project (and it works completely), then
+you can feel free to ask AI for a solution that you can use for
+comparison. Or, better still, feed your solution into the AI and ask for
 improvements.
 
 Keep in mind that some of the "improvements" aren't going to be
