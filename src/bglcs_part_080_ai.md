@@ -213,7 +213,7 @@ definitely novel beasts that don't play by the previous rules.
 > That's not to say they won't realize those gains; but it is to say it
 > smells familiar.
 
-And LLMs are showing incredibly coding expertise. I am perpetually
+And LLMs are showing incredible coding expertise. I am perpetually
 amazed by what they can do. But can they do it all?
 
 I have a thought experiment for you. Let's say there's an AI so good
