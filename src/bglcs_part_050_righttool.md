@@ -16,7 +16,7 @@ problem you're solving.
 
 I don't know anyone who would declare that [flw[Bash
 scripting|Shell_script]] is the best programming language. But there are
-definitely problems for which is actually is the best solution!
+definitely problems for which it actually is the best solution!
 
 Let's analogize! What's better: a screwdriver or a hammer? Trick
 question! They're both the best tool, but only in the context of the job
