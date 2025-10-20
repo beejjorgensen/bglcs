@@ -3,7 +3,7 @@
 [i[Debugging]<]
 
 Before we begin, the best way to debug a program is to not have bugs to
-begin with. Though we're only human and we'll certainly mak mstakes,
+begin with. Though we're only human and we'll certainly make mistakes,
 <!-- sic --> the best way to avoid bugs is to adhere to the problem
 solving framework. Remember that the programming battle is in the
 _Understand_ and _Plan_ phases. The more completely and correctly you
