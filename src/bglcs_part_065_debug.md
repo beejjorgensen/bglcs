@@ -3,11 +3,12 @@
 [i[Debugging]<]
 
 Before we begin, the best way to debug a program is to not have bugs to
-begin with. Though we're only human and we'll certainly mak mstakes,
-<!-- sic --> the best way to avoid bugs is to adhere to the problem
-solving framework. Remember that the programming battle is in the
-_Understand_ and _Plan_ phases. The more completely and correctly you
-complete those phases, the fewer bugs you'll have when coding it up.
+begin with. Though we're only human and we'll certainly <!-- the
+following two words are deliberately misspelled --> mak mstakes, <!--
+sic --> the best way to avoid bugs is to adhere to the problem solving
+framework. Remember that the programming battle is in the _Understand_
+and _Plan_ phases. The more completely and correctly you complete those
+phases, the fewer bugs you'll have when coding it up.
 
 That said, let's talk about what to do when the inevitable happens.
 
