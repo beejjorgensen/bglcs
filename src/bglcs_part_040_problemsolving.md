@@ -300,7 +300,7 @@ tests.***
 Last and definitely not least, look back and cast a critical eye on what
 you've done. Yes, it works and passes all the tests. But is it as
 elegant as it could be? Is it as readable and maintainable as it could
-be? Are there are places where the code is fragile and might fail on
+be? Are there any places where the code is fragile and might fail on
 unexpected inputs?
 
 No matter what your skill level is, there is always room for
