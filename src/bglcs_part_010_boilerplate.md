@@ -12,12 +12,14 @@
 [is[Recursion==>see Recursion]]
 -->
 
-Are you getting into Computer Science, or thinking about it? Or maybe
-you're in it already. This super-high-level guide is for you!
+Are you getting into Computer Science, or thinking about it? Are you
+considering a degree? Or maybe you're in it already. This
+super-high-level guide is for you!
 
-I'm not going to talk about how to write code (much). What I'm going to
-talk about in these roughly 40 pages is more about _how to learn_ when
-you're a nascent software developer.
+I'm not going to talk about how to write code (much). And I'm not really
+going to talk about the science and math behind Computer Science,
+ironically. What I'm going to talk about in these roughly 40 pages is
+more about _how to learn_ when you're a nascent software developer.
 
 Now, as much as I'd like to know exactly the way that everyone learns
 (and manage to wedge that into 40 pages), I, to be perfectly honest,
@@ -55,6 +57,27 @@ Undergrad students just getting into programming are the people I had in
 mind while writing this. So give-or-take a bit around that target
 audience. People in high school or just looking to learn how to program
 are also probably out there in the audience, as well.
+
+### On the term "Computer Science"
+
+This guide is, to a degree, poorly named. It's not really about what
+most people consider to be "computer science". It's more about
+programming, which is a thing computer scientists, software engineers,
+developers, and programmers do a lot of.
+
+I've named it a _Guide to Computer Science_ for a couple reasons:
+
+* At least in the US, the degree program software developers get into is
+  called "Computer Science" and people starting in that degree program
+  are the target audience.
+* When you're beginning to study Computer Science (the degree), you'll
+  be doing the stuff in this guide. Later, when you get to the Computer
+  Science (the science) part of the degree, you'll have already outgrown
+  it.
+
+So the Guide is good for getting started (hopefully), but do understand
+that you're just dipping your toes into a vast ocean, waiting to be
+explored.
 
 ## Official Homepage
 
