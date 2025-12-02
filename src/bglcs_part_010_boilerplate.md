@@ -15,7 +15,7 @@
 Are you getting into Computer Science, or thinking about it? Or maybe
 you're in it already. This super-high-level guide is for you!
 
-I'm not going to talk about how to write code (much). I'll I'm going to
+I'm not going to talk about how to write code (much). All I'm going to
 talk about in these roughly 40 pages is more about _how to learn_ when
 you're a nascent software developer.
 
