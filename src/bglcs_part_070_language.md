@@ -107,7 +107,7 @@ But you need to be familiar with that language's standard library so
 that you know what the language can do out of the box, and so that you
 don't reinvent the wheel when you don't have to.
 
-One recommendation is the skim the standard library for a language
+One recommendation is to skim the standard library for a language
 you're using. You don't have to know exactly how to use Python's
 [flw[IMAP|Internet_Message_Access_Protocol]] functionality, but knowing
 it's there in case you do is very valuable. At the very least, it lets
