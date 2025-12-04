@@ -105,7 +105,7 @@ repro it yourself.
 
 If you can only sporadically repro it, you have a chance, but it's going
 to be hard work. Your goal is to get it to repro consistently. This
-saves you spending forever trying to get a rare repo. If you could make
+saves you spending forever trying to get a rare repro. If you could make
 it happen consistently, that's a big time saver, and it helps you narrow
 down where the bug can be.
 
