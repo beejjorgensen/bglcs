@@ -123,7 +123,7 @@ So when you give up after your time limit, very often the solution you
 read fits neatly into the framework you've already built. It's just a
 tiny step from your framework to the solution, and it's *way* easier to
 take that little step to the solution than to try to
-[flw[grok|https://en.wikipedia.org/wiki/Grok#In_computer_programmer_culture]]
+[fl[grok|https://en.wikipedia.org/wiki/Grok#In_computer_programmer_culture]]
 the entire thing.
 
 Contrast that to when you just look up the answer immediately without
