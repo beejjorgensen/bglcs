@@ -29,7 +29,7 @@ What I do have is 40+ years of programming experience (self-taught
 before college), 20 years of industry experience, and 8+ years of
 teaching experience. And a BS and MS in Computer Science.
 
-And I have opinions about how to best way to learn how to program!
+And I have opinions about the best way to learn how to program!
 
 Now, let's get this right out of the way: you might completely disagree
 with what I have to say here. And I'm okay with that.
