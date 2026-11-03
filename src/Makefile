@@ -1,7 +1,7 @@
 TITLE="Beej's Guide to Learning Computer Science"
 SUBTITLE=""
 AUTHOR='Brian “Beej Jorgensen” Hall'
-VERSION_DATE="v1.0.0 Copyright © October 15, 2026"
+VERSION_DATE="v1.1.0 Copyright © November 3, 2026"
 
 GUIDE_ID=bglcs
 BGBSPD_BUILD_DIR?=../../bgbspd

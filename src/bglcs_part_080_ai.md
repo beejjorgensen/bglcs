@@ -2,8 +2,11 @@
 
 [i[Artificial Intelligence]<]
 
-As of this writing in 2025, AI is the new hotness[^0D45]. Everyone is
-using it, and no one can stop talking about it.
+*[This sub-section was written in 2025. Subsequent sub-sections, below,
+might have been updated more recently.]*
+
+As of this writing, AI is the new hotness[^0D45]. Everyone is using it,
+and no one can stop talking about it.
 
 [^0D45]: Unlike the expression "new hotness", which is now tired.
     "Tired" is also tired, but that's self-referential so I think it has
@@ -26,9 +29,109 @@ because those are two different things.
 
 But before that, let's talk about what you're _not_ supposed to do.
 
+## What Do You Need To Learn?
+
+*[This sub-section was written in November, 2026.]*
+
+I considered titling this section *What Is Even The Point*, but I
+rejected it as too downbeat. Forget I said it.
+
+Last February, I felt I could see about one month into the future when
+it came to the state of AI. That was relatively terrifying from an
+instruction standpoint, as we like to at least pretend we know what the
+jobs market will look like after you get BS. And it's certainly
+terrifying from a student (and student loan) standpoint.
+
+But today, I feel like that's settled down a bit, and now I feel I have
+7-8 months of visibility. It's a lot less than the four years I had
+before, but at this point, I'll freakin' take it.
+
+The reasons for increased visibility are twofold:
+
+* The rollout time of LLMs at work is slower than-expected. Lots of
+  movers and shakers were saying there would be no engineering jobs by
+  now. But the demand for seniors devs is *up significantly*.
+  Additionally, there are multiple studies showing that outside of tech,
+  AI has not favorably impacted the bottom line. And it's looking a bit
+  more and more like Fred Brooks's essay [*No Silver
+  Bullet*](https://en.wikipedia.org/wiki/No_Silver_Bullet) is actually
+  holding true.
+
+* There's an undersupply of senior devs right now, but there's an
+  *oversupply* of junior devs. This gives us a window into what skills
+  employers are looking for: the difference between senior and juniors.
+
+Here are the skills that I currently believe you need to learn in order
+to succeed. The first two have always been there. The last four are new
+AI-world requirements. Lots of universities have taught them to greater
+or lesser degrees, but today they're first class targets just like
+reading and writing.
+
+(*Caveat:* this is all IMHO. There will be many who disagree with me or
+feel this short list is woefully inadequate. Remember, I claim today to
+only be able to see 7-8 months into the future. And I'm only so smart.
+Read this list with a critical eye!)
+
+* **Writing code.** Even if your LLM will be writing all your code, the
+  act of learning to code exercises the problem-solving skills you need.
+  As LLM enthusiasts love to say, *it was never about the code*. I'm not
+  going to go *that* far, because I think writing code has additional
+  benefits. Like it makes you much more skilled at reading code.
+* **Reading code.** Your LLM will churn out reams of code before you can
+  say [Jack
+  Robinson](https://en.wikipedia.org/wiki/Jack_Robinson_(idiom)). Is it
+  any good or is it pure unadulterated crap? You're going to sign your
+  name on it claiming on your honor and skill as a dev that the code is
+  of the *utmost quality*. Wouldn't you like to know if you're right?
+* **Problem decomposition.** You have been tasked with something giant
+  and you have no idea how to do it. How do you take this huge
+  intractable problem and break it down into pieces that you *do* know
+  how to solve? One-shotting a massive project will likely result in
+  failure; at the very least, it will not be a maintainable piece of
+  software. And the more maintainable the software is, the fewer tokens
+  you need to burn to make successful changes.
+* **Abstraction.** When receiving data over a network, are you receiving
+  a stream of bytes or a sequence of packets? If the latter is easier to
+  deal with, you should write code to abstract those bytes into packets.
+  As data moves around a project, how is it represented at different
+  abstraction layers? Where does the conversion happen and why? What
+  functionality are you sacrificing by introducing a layer of
+  abstraction? What simplicity are you gaining by doing so? Beginners
+  are notoriously bad at mixing layers of abstraction. As are some
+  experts.
+* **Systems-level design.** How do you take a problem and solve it with
+  a number of abstract connected components? What components do you need
+  in order to meet functional and non-functional requirements? This is a
+  toughie—universities typically let the industry handle this
+  post-graduation. You'd get a small bug to fix in a specific piece of
+  code, and gradually, over the years, you'd learn how the system was
+  put together. Do that a few times, and you could start building your
+  own large-scale systems.
+* **Testing.** With LLMs producing more code than you can check
+  line-by-line, tests need to be put in place. Usually the LLM writes
+  the tests, and it *really* wants those tests to pass, so much so that
+  it can even lie about it. You need to know about different kinds of
+  testing so that you can verify the LLM-generated tests are actually
+  testing the code.
+
+Instructors should be rolling those last four items into as many courses
+as they can without sacrificing code writing and reading. (Speaking as
+an instructor, I can tell you this is a massive effort and will be a
+work-in-progress for some time.)
+
+When you graduate, you need to be able to solve any computing problem
+thrown your way, regardless of whether or not you know the framework or
+the language.
+
+This actually has been the goal of practical computer science colleges
+everywhere for the last 50 years. It's not new. But now the scope of
+"solve any computing problem" has increased.
+
 ## How *Not* to Use AI as a Student
 
 [i[Artificial Intelligence-->Student non-usage]<]
+
+*[This sub-section was updated in November, 2026.]*
 
 I've mentioned elsewhere that I like to study the book [i[SICP]]
 [flw[SICP|Structure_and_Interpretation_of_Computer_Programs]] to improve
@@ -95,44 +198,59 @@ programming project. It probably can do that, but you'll learn nothing.
 The goal of the project is not to complete the problem; it's to get a
 workout while you complete it.
 
+Remember: ***every single time you delegate a task, your skill
+atrophies***. I don't care if that's doing systems-level project
+planning or if it's coding a `for`-loop. You have to decide if the gain
+is worth that damage. In school, our focus is (or should be, at least!)
+on the *gain*.
+
 [i[Artificial Intelligence-->Student non-usage]>]
 
 ## How to Use AI as a Student
 
 [i[Artificial Intelligence-->Student usage]<]
 
+*[This sub-section was updated in November, 2026.]*
+
 First things first: if your school or instructor has banned AI, that's
 the rule. And you have to ignore what I've written here. Sorry. I'm
 going to assume it hasn't done that foolish thing, and proceed.
 
-So how should you use it? Use it like you're working with a decent tutor
-who knows a lot of things kinda well. The AI tutor definitely makes
-mistakes and gives poor advice from time to time, so you should cast a
-critical eye on everything you learn from it.
+So how should you use it? 
 
-When you're stuck on a small part of a project, ask about that. When you
-can't remember syntax, ask about that. Ask about the idiomatic way to
-write a loop that removes elements from the array it's iterating over.
-Ask about what a particular operator does or how to use it. When you
-have questions about the language or library, ask those. Little
-bite-sized pieces are fine to ask it about. It can be way faster than a
-standard Internet search.
+* **Use it like you're working with a decent tutor** who knows a lot of
+  things kinda well. The AI tutor definitely makes mistakes and gives
+  poor advice from time to time, so you should cast a critical eye on
+  everything you learn from it.
 
-Another place I've seen AI do a decent job is with hints. You can drop
-in a functions-worth of code and tell the AI, "Something is wrong with
-this [describe the issue]. But don't tell me the answer and don't give
-me the corrected code. Just give me hints about how I need to think
-about the problem to find the solution on my own."
+* **When you're stuck on a small part of a project, ask about that.**
+  When you can't remember syntax, ask about that. Ask about the
+  idiomatic way to write a loop that removes elements from the array
+  it's iterating over. Ask about what a particular operator does or how
+  to use it. When you have questions about the language or library, ask
+  those. Little bite-sized pieces are fine to ask it about. It can be
+  way faster than a standard Internet search.
 
-And when you've completed the project (and it works completely), then
-you can feel free to ask AI for a solution that you can use for
-comparison. Or, better still, feed your solution into the AI and ask for
-improvements.
+* **Ask the AI for hints.** You can drop in a functions-worth of code
+  and tell the AI, "Something is wrong with this [describe the issue].
+  But don't tell me the answer and don't give me the corrected code.
+  Just give me hints about how I need to think about the problem to find
+  the solution on my own."
+
+* **Get quizzed.** When you think you know a topic, prompt the chatbot
+  to ask you questions about it. It tends to be an excellent tester of
+  the well-trodden subject matter we use in college and I guarantee
+  you'll learn a lot really quickly.
+
+* **Get a code review.** When you've completed the project (and it works
+  completely!), then you can feel free to ask AI for a code review.
+  Remember: *reflection* is an important part of the problem-solving
+  framework! It absolutely will find things you've missed.
 
 Keep in mind that some of the "improvements" aren't going to be
-improvements at all, and you'll want to ignore them. Cast that critical
+improvements at all, and you'll want to ignore them. *Cast that critical
 eye. [Be opinionated](#be-opinionated) and have a rationale for which
-advice you're accepting and which you're rejecting.
+advice you're accepting and which you're rejecting.*
 
 Lastly, there's another time it's fine to use AI to solve entire
 projects: when your instructor says you can. This happens when they're
@@ -144,6 +262,8 @@ are valuable uses of your study time.
 ## How to Use AI at Work
 
 [i[Artificial Intelligence-->Work usage]<]
+
+*[This sub-section was written in 2025.]*
 
 First, a caveat: the last time I was working in production (and I did so
 for 20 years), AI as we know it today did not exist. That said, I do use
@@ -196,6 +316,8 @@ the logic behind, anyway.
 
 [i[Artificial Intelligence-->Job market effects]<]
 
+*[This sub-section was updated in November, 2026.]*
+
 When you read this, I want you to know that I, the author, thought
 [fl[Yahoo!|https://www.yahoo.com/]] was a dumb idea when it first
 launched. I kinda still do think it was, but it made a bazillion dollars
@@ -242,10 +364,15 @@ I think that trend's going to continue, maybe forever.
 What will happen, I predict, is that the easy boilerplate jobs that
 exist now will experience a massive tightening. AI can solve lots of
 those easy problems, and you don't need a big team of engineers behind
-them. The more novel problems will still need a lot of human work.
+them. You can have a senior engineer commanding a bunch of bots to get
+the work done.
 
-But maybe not as much work as before. AI can help in a variety of ways,
-outlined above, so it helps speed things up.
+The unfortunate effect is that there is a large demand for senior devs
+now (up ~10-20% as of this writing), and a small demand for junior devs
+(down ~10%). So the question, again, becomes: what's a senior got that a
+junior doesn't? "Experience" is the glib answer. But what does that even
+mean? IMHO, we need to look back at those skills of problem
+decomposition, abstraction, systems-level design, and testing.
 
 Going back in time, consider when most programs were written in
 [flw[assembly language|Assembly_language]] and it took a lot of

@@ -62,8 +62,8 @@ are also probably out there in the audience, as well.
 
 This guide is, to a degree, poorly named. It's not really about what
 most people consider to be "computer science". It's more about
-programming, which is a thing computer scientists, software engineers,
-developers, and programmers do a lot of.
+programming and software engineering, which is a thing computer
+scientists, software engineers, developers, and programmers do a lot of.
 
 I've named it a _Guide to Computer Science_ for a couple reasons:
 
